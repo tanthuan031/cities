@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 7720,
+      "name": "Phường Điện An"
+    },
+    {
+      "id": 7721,
+      "name": "Phường Điện Dương"
+    },
+    {
+      "id": 7725,
+      "name": "Phường Điện Nam Bắc"
+    },
+    {
+      "id": 7726,
+      "name": "Phường Điện Nam Đông"
+    },
+    {
+      "id": 7727,
+      "name": "Phường Điện Nam Trung"
+    },
+    {
+      "id": 7728,
+      "name": "Phường Điện Ngọc"
+    },
+    {
+      "id": 7719,
+      "name": "Phường Vĩnh Điện"
+    },
+    {
+      "id": 7722,
+      "name": "Xã Điện Hòa"
+    },
+    {
+      "id": 7723,
+      "name": "Xã Điện Hồng"
+    },
+    {
+      "id": 7724,
+      "name": "Xã Điện Minh"
+    },
+    {
+      "id": 7729,
+      "name": "Xã Điện Phong"
+    },
+    {
+      "id": 7730,
+      "name": "Xã Điện Phước"
+    },
+    {
+      "id": 7731,
+      "name": "Xã Điện Phương"
+    },
+    {
+      "id": 7732,
+      "name": "Xã Điện Quang"
+    },
+    {
+      "id": 7733,
+      "name": "Xã Điện Thắng Bắc"
+    },
+    {
+      "id": 7734,
+      "name": "Xã Điện Thắng Nam"
+    },
+    {
+      "id": 7735,
+      "name": "Xã Điện Thắng Trung"
+    },
+    {
+      "id": 7736,
+      "name": "Xã Điện Thọ"
+    },
+    {
+      "id": 7737,
+      "name": "Xã Điện Tiến"
+    },
+    {
+      "id": 7738,
+      "name": "Xã Điện Trung"
+    }
+  ]
+}

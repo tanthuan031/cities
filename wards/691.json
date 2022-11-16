@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 2096,
+      "name": "Phường An Bình"
+    },
+    {
+      "id": 2097,
+      "name": "Phường An Lạc"
+    },
+    {
+      "id": 2098,
+      "name": "Phường Bình Tân"
+    },
+    {
+      "id": 2099,
+      "name": "Phường Đạt Hiếu"
+    },
+    {
+      "id": 2100,
+      "name": "Phường Đoàn Kết"
+    },
+    {
+      "id": 2101,
+      "name": "Phường Thiện An"
+    },
+    {
+      "id": 2102,
+      "name": "Phường Thống Nhất"
+    },
+    {
+      "id": 2091,
+      "name": "Xã Bình Thuận"
+    },
+    {
+      "id": 2092,
+      "name": "Xã Cư Bao"
+    },
+    {
+      "id": 2093,
+      "name": "Xã Ea Blang"
+    },
+    {
+      "id": 2094,
+      "name": "Xã Ea Drông"
+    },
+    {
+      "id": 2095,
+      "name": "Xã Ea Siên"
+    }
+  ]
+}

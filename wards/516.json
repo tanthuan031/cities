@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1187,
+      "name": "Phường An Phú"
+    },
+    {
+      "id": 1185,
+      "name": "Phường An Thạnh"
+    },
+    {
+      "id": 1189,
+      "name": "Phường Bình Chuẩn"
+    },
+    {
+      "id": 1190,
+      "name": "Phường Bình Hòa"
+    },
+    {
+      "id": 1191,
+      "name": "Phường Bình Nhâm"
+    },
+    {
+      "id": 1192,
+      "name": "Phường Hưng Định"
+    },
+    {
+      "id": 1186,
+      "name": "Phường Lái Thiêu"
+    },
+    {
+      "id": 1193,
+      "name": "Phường Thuận Giao"
+    },
+    {
+      "id": 1194,
+      "name": "Phường Vĩnh Phú"
+    },
+    {
+      "id": 1188,
+      "name": "Xã An Sơn"
+    }
+  ]
+}

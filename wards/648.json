@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 646,
+      "name": "Phường 1"
+    },
+    {
+      "id": 647,
+      "name": "Phường 2"
+    },
+    {
+      "id": 648,
+      "name": "Phường 3"
+    },
+    {
+      "id": 649,
+      "name": "Phường 5"
+    },
+    {
+      "id": 650,
+      "name": "Phường 7"
+    },
+    {
+      "id": 651,
+      "name": "Phường 8"
+    },
+    {
+      "id": 652,
+      "name": "Phường Nhà Mát"
+    },
+    {
+      "id": 645,
+      "name": "Xã Hiệp Thành"
+    },
+    {
+      "id": 653,
+      "name": "Xã Vĩnh Trạch"
+    },
+    {
+      "id": 654,
+      "name": "Xã Vĩnh Trạch Đông"
+    }
+  ]
+}

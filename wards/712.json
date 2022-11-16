@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 6169,
+      "name": "Phường 1"
+    },
+    {
+      "id": 6170,
+      "name": "Phường 2"
+    },
+    {
+      "id": 6171,
+      "name": "Phường 3"
+    },
+    {
+      "id": 6165,
+      "name": "Xã Bình Hiệp"
+    },
+    {
+      "id": 6166,
+      "name": "Xã Bình Tân"
+    },
+    {
+      "id": 6167,
+      "name": "Xã Thạnh Hưng"
+    },
+    {
+      "id": 6168,
+      "name": "Xã Thạnh Trị"
+    },
+    {
+      "id": 6164,
+      "name": "Xã Tuyên Thạnh"
+    }
+  ]
+}

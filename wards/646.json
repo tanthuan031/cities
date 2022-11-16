@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1499,
+      "name": "Thị Trấn Năm Căn"
+    },
+    {
+      "id": 1500,
+      "name": "Xã Đất Mới"
+    },
+    {
+      "id": 1501,
+      "name": "Xã Hàm Rồng"
+    },
+    {
+      "id": 1502,
+      "name": "Xã Hàng Vịnh"
+    },
+    {
+      "id": 1503,
+      "name": "Xã Hiệp Tùng"
+    },
+    {
+      "id": 1504,
+      "name": "Xã Lâm Hải"
+    },
+    {
+      "id": 1505,
+      "name": "Xã Tam Giang"
+    },
+    {
+      "id": 1506,
+      "name": "Xã Tam Giang Đông"
+    }
+  ]
+}

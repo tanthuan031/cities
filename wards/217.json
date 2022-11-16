@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 8289,
+      "name": "Phường Bắc Sơn"
+    },
+    {
+      "id": 8290,
+      "name": "Phường Nam Khê"
+    },
+    {
+      "id": 8296,
+      "name": "Phường Phương Đông"
+    },
+    {
+      "id": 8297,
+      "name": "Phường Phương Nam"
+    },
+    {
+      "id": 8291,
+      "name": "Phường Quang Trung"
+    },
+    {
+      "id": 8292,
+      "name": "Phường Thanh Sơn"
+    },
+    {
+      "id": 8293,
+      "name": "Phường Trưng Vương"
+    },
+    {
+      "id": 8294,
+      "name": "Phường Vàng Danh"
+    },
+    {
+      "id": 8295,
+      "name": "Phường Yên Thanh"
+    },
+    {
+      "id": 8288,
+      "name": "Xã Điền Công"
+    },
+    {
+      "id": 8298,
+      "name": "Xã Thượng Yên Công"
+    }
+  ]
+}

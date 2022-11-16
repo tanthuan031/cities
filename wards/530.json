@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1242,
+      "name": "Thị trấn Thanh Bình"
+    },
+    {
+      "id": 1238,
+      "name": "Xã Hưng Phước"
+    },
+    {
+      "id": 1239,
+      "name": "Xã Phước Thiện"
+    },
+    {
+      "id": 1240,
+      "name": "Xã Tân Thành"
+    },
+    {
+      "id": 1241,
+      "name": "Xã Tân Tiến"
+    },
+    {
+      "id": 1243,
+      "name": "Xã Thanh Hòa"
+    },
+    {
+      "id": 1244,
+      "name": "Xã Thiện Hưng"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 10897,
+      "name": "Phường Cái Vồn"
+    },
+    {
+      "id": 11586,
+      "name": "Phường Đông Thuận"
+    },
+    {
+      "id": 11587,
+      "name": "Phường Thành Phước"
+    },
+    {
+      "id": 10898,
+      "name": "Xã Đông Bình"
+    },
+    {
+      "id": 10899,
+      "name": "Xã Đông Thành"
+    },
+    {
+      "id": 10900,
+      "name": "Xã Đông Thạnh"
+    },
+    {
+      "id": 10901,
+      "name": "Xã Mỹ Hòa"
+    },
+    {
+      "id": 10902,
+      "name": "Xã Thuận An"
+    }
+  ]
+}

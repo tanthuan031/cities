@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 137,
+      "name": "Phường Bình Đức"
+    },
+    {
+      "id": 138,
+      "name": "Phường Bình Khánh"
+    },
+    {
+      "id": 139,
+      "name": "Phường Đông Xuyên"
+    },
+    {
+      "id": 140,
+      "name": "Phường Mỹ Bình"
+    },
+    {
+      "id": 141,
+      "name": "Phường Mỹ Hòa"
+    },
+    {
+      "id": 142,
+      "name": "Phường Mỹ Long"
+    },
+    {
+      "id": 143,
+      "name": "Phường Mỹ Phước"
+    },
+    {
+      "id": 144,
+      "name": "Phường Mỹ Quý"
+    },
+    {
+      "id": 145,
+      "name": "Phường Mỹ Thạnh"
+    },
+    {
+      "id": 146,
+      "name": "Phường Mỹ Thới"
+    },
+    {
+      "id": 147,
+      "name": "Phường Mỹ Xuyên"
+    },
+    {
+      "id": 135,
+      "name": "Xã Mỹ Hoà Hưng"
+    },
+    {
+      "id": 136,
+      "name": "Xã Mỹ Khánh"
+    }
+  ]
+}

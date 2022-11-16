@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 8085,
+      "name": "Thị trấn La Hà"
+    },
+    {
+      "id": 8086,
+      "name": "Thị trấn Sông Vệ"
+    },
+    {
+      "id": 8088,
+      "name": "Xã Nghĩa Điền"
+    },
+    {
+      "id": 8090,
+      "name": "Xã Nghĩa Hiệp"
+    },
+    {
+      "id": 8091,
+      "name": "Xã Nghĩa Hòa"
+    },
+    {
+      "id": 8092,
+      "name": "Xã Nghĩa Kỳ"
+    },
+    {
+      "id": 8093,
+      "name": "Xã Nghĩa Lâm"
+    },
+    {
+      "id": 8094,
+      "name": "Xã Nghĩa Mỹ"
+    },
+    {
+      "id": 8096,
+      "name": "Xã Nghĩa Phương"
+    },
+    {
+      "id": 8097,
+      "name": "Xã Nghĩa Sơn"
+    },
+    {
+      "id": 8098,
+      "name": "Xã Nghĩa Thắng"
+    },
+    {
+      "id": 8099,
+      "name": "Xã Nghĩa Thọ"
+    },
+    {
+      "id": 8100,
+      "name": "Xã Nghĩa Thuận"
+    },
+    {
+      "id": 8101,
+      "name": "Xã Nghĩa Thương"
+    },
+    {
+      "id": 8102,
+      "name": "Xã Nghĩa Trung"
+    }
+  ]
+}

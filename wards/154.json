@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 254,
+      "name": "Thị trấn Phủ Thông"
+    },
+    {
+      "id": 256,
+      "name": "Xã Cao Sơn"
+    },
+    {
+      "id": 255,
+      "name": "Xã Cẩm Giàng"
+    },
+    {
+      "id": 258,
+      "name": "Xã Dương Phong"
+    },
+    {
+      "id": 257,
+      "name": "Xã Đôn Phong"
+    },
+    {
+      "id": 259,
+      "name": "Xã Hà Vị"
+    },
+    {
+      "id": 260,
+      "name": "Xã Lục Bình"
+    },
+    {
+      "id": 261,
+      "name": "Xã Mỹ Thanh"
+    },
+    {
+      "id": 262,
+      "name": "Xã Nguyên Phúc"
+    },
+    {
+      "id": 263,
+      "name": "Xã Phương Linh"
+    },
+    {
+      "id": 265,
+      "name": "Xã Quang Thuận"
+    },
+    {
+      "id": 264,
+      "name": "Xã Quân Bình"
+    },
+    {
+      "id": 266,
+      "name": "Xã Sĩ Bình"
+    },
+    {
+      "id": 267,
+      "name": "Xã Tân Tiến"
+    },
+    {
+      "id": 268,
+      "name": "Xã Tú Trĩ"
+    },
+    {
+      "id": 269,
+      "name": "Xã Vi Hương"
+    },
+    {
+      "id": 270,
+      "name": "Xã Vũ Muộn"
+    }
+  ]
+}

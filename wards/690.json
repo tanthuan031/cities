@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 3743,
+      "name": "Phường Lê Lợi"
+    },
+    {
+      "id": 3744,
+      "name": "Phường Ngô Quyền"
+    },
+    {
+      "id": 3745,
+      "name": "Phường Phú Thịnh"
+    },
+    {
+      "id": 3746,
+      "name": "Phường Quang Trung"
+    },
+    {
+      "id": 3747,
+      "name": "Phường Sơn Lộc"
+    },
+    {
+      "id": 3748,
+      "name": "Phường Trung Hưng"
+    },
+    {
+      "id": 3749,
+      "name": "Phường Trung Sơn Trầm"
+    },
+    {
+      "id": 3750,
+      "name": "Phường Viên Sơn"
+    },
+    {
+      "id": 3751,
+      "name": "Phường Xuân Khanh"
+    },
+    {
+      "id": 3740,
+      "name": "Xã Cổ Đông"
+    },
+    {
+      "id": 3741,
+      "name": "Xã Đường Lâm"
+    },
+    {
+      "id": 3742,
+      "name": "Xã Kim Sơn"
+    },
+    {
+      "id": 3752,
+      "name": "Xã Sơn Đông"
+    },
+    {
+      "id": 3753,
+      "name": "Xã Thanh Mỹ"
+    },
+    {
+      "id": 3754,
+      "name": "Xã Xuân Sơn"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 7022,
+      "name": "Phường Bích Đào"
+    },
+    {
+      "id": 7023,
+      "name": "Phường Đông Thành"
+    },
+    {
+      "id": 7024,
+      "name": "Phường Nam Bình"
+    },
+    {
+      "id": 7025,
+      "name": "Phường Nam Thành"
+    },
+    {
+      "id": 7026,
+      "name": "Phường Ninh Khánh"
+    },
+    {
+      "id": 7027,
+      "name": "Phường Ninh Phong"
+    },
+    {
+      "id": 7028,
+      "name": "Phường Ninh Sơn"
+    },
+    {
+      "id": 7029,
+      "name": "Phường Phúc Thành"
+    },
+    {
+      "id": 7030,
+      "name": "Phường Tân Thành"
+    },
+    {
+      "id": 7031,
+      "name": "Phường Thanh Bình"
+    },
+    {
+      "id": 7032,
+      "name": "Phường Vân Giang"
+    },
+    {
+      "id": 7019,
+      "name": "Xã Ninh Nhất"
+    },
+    {
+      "id": 7020,
+      "name": "Xã Ninh Phúc"
+    },
+    {
+      "id": 7021,
+      "name": "Xã Ninh Tiến"
+    }
+  ]
+}

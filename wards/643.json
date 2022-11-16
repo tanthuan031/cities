@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 11379,
+      "name": "Thị trấn Rạch Gốc"
+    },
+    {
+      "id": 1507,
+      "name": "Xã Đất Mũi"
+    },
+    {
+      "id": 1508,
+      "name": "Xã Tam Giang Tây"
+    },
+    {
+      "id": 1509,
+      "name": "Xã Tân Ân"
+    },
+    {
+      "id": 1510,
+      "name": "Xã Tân Ân Tây"
+    },
+    {
+      "id": 1511,
+      "name": "Xã Viên An"
+    },
+    {
+      "id": 1512,
+      "name": "Xã Viên An Đông"
+    }
+  ]
+}

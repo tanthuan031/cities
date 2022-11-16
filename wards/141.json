@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 11524,
+      "name": "Phường Bách Quang"
+    },
+    {
+      "id": 9352,
+      "name": "Phường Cải Đan"
+    },
+    {
+      "id": 9353,
+      "name": "Phường Lương Châu"
+    },
+    {
+      "id": 11525,
+      "name": "Phường Lương Sơn"
+    },
+    {
+      "id": 9354,
+      "name": "Phường Mỏ Chè"
+    },
+    {
+      "id": 9355,
+      "name": "Phường Phố Cò"
+    },
+    {
+      "id": 9356,
+      "name": "Phường Thắng Lợi"
+    },
+    {
+      "id": 9350,
+      "name": "Xã Bá Xuyên"
+    },
+    {
+      "id": 9351,
+      "name": "Xã Bình Sơn"
+    },
+    {
+      "id": 9357,
+      "name": "Xã Tân Quang"
+    },
+    {
+      "id": 9358,
+      "name": "Xã Vinh Sơn"
+    }
+  ]
+}

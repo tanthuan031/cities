@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 7400,
+      "name": "Thị trấn La Hai"
+    },
+    {
+      "id": 7401,
+      "name": "Xã Đa Lộc"
+    },
+    {
+      "id": 7402,
+      "name": "Xã Phú Mỡ"
+    },
+    {
+      "id": 7403,
+      "name": "Xã Xuân Lãnh"
+    },
+    {
+      "id": 7404,
+      "name": "Xã Xuân Long"
+    },
+    {
+      "id": 7405,
+      "name": "Xã Xuân Phước"
+    },
+    {
+      "id": 7406,
+      "name": "Xã Xuân Quang 1"
+    },
+    {
+      "id": 7407,
+      "name": "Xã Xuân Quang 2"
+    },
+    {
+      "id": 7408,
+      "name": "Xã Xuân Quang 3"
+    },
+    {
+      "id": 7409,
+      "name": "Xã Xuân Sơn Bắc"
+    },
+    {
+      "id": 7410,
+      "name": "Xã Xuân Sơn Nam"
+    }
+  ]
+}

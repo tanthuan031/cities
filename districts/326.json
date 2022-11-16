@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 240,
+      "name": "Thành phố Nam Định"
+    },
+    {
+      "id": 241,
+      "name": "Huyện Nghĩa Hưng"
+    },
+    {
+      "id": 242,
+      "name": "Huyện Trực Ninh"
+    },
+    {
+      "id": 243,
+      "name": "Huyện Ý Yên"
+    },
+    {
+      "id": 244,
+      "name": "Huyện Vụ Bản"
+    },
+    {
+      "id": 245,
+      "name": "Huyện Giao Thủy"
+    },
+    {
+      "id": 246,
+      "name": "Huyện Xuân Trường"
+    },
+    {
+      "id": 247,
+      "name": "Huyện Nam Trực"
+    },
+    {
+      "id": 248,
+      "name": "Huyện Mỹ Lộc"
+    },
+    {
+      "id": 249,
+      "name": "Huyện Hải Hậu"
+    }
+  ]
+}

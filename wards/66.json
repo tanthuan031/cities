@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 11134,
+      "name": "Phường Đồng Xuân"
+    },
+    {
+      "id": 11135,
+      "name": "Phường Hùng Vương"
+    },
+    {
+      "id": 11136,
+      "name": "Phường Phúc Thắng"
+    },
+    {
+      "id": 11137,
+      "name": "Phường Trưng Nhị"
+    },
+    {
+      "id": 11138,
+      "name": "Phường Trưng Trắc"
+    },
+    {
+      "id": 11139,
+      "name": "Phường Xuân Hoà"
+    },
+    {
+      "id": 11131,
+      "name": "Xã Cao Minh"
+    },
+    {
+      "id": 11132,
+      "name": "Xã Nam Viêm"
+    },
+    {
+      "id": 11133,
+      "name": "Xã Ngọc Thanh"
+    },
+    {
+      "id": 11140,
+      "name": "Xã Tiền Châu"
+    }
+  ]
+}

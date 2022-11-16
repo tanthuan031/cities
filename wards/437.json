@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": 5056,
+      "name": "Phường Lộc Thọ"
+    },
+    {
+      "id": 5057,
+      "name": "Phường Ngọc Hiệp"
+    },
+    {
+      "id": 5058,
+      "name": "Phường Phước Hải"
+    },
+    {
+      "id": 5059,
+      "name": "Phường Phước Hòa"
+    },
+    {
+      "id": 5060,
+      "name": "Phường Phước Long"
+    },
+    {
+      "id": 5061,
+      "name": "Phường Phước Tân"
+    },
+    {
+      "id": 5062,
+      "name": "Phường Phước Tiến"
+    },
+    {
+      "id": 5063,
+      "name": "Phường Phương Sài"
+    },
+    {
+      "id": 5064,
+      "name": "Phường Phương Sơn"
+    },
+    {
+      "id": 5065,
+      "name": "Phường Tân Lập"
+    },
+    {
+      "id": 5067,
+      "name": "Phường Vạn Thạnh"
+    },
+    {
+      "id": 5066,
+      "name": "Phường Vạn Thắng"
+    },
+    {
+      "id": 5068,
+      "name": "Phường Vĩnh Hải"
+    },
+    {
+      "id": 5069,
+      "name": "Phường Vĩnh Hòa"
+    },
+    {
+      "id": 5070,
+      "name": "Phường Vĩnh Nguyên"
+    },
+    {
+      "id": 5071,
+      "name": "Phường Vĩnh Phước"
+    },
+    {
+      "id": 5072,
+      "name": "Phường Vĩnh Thọ"
+    },
+    {
+      "id": 5073,
+      "name": "Phường Vĩnh Trường"
+    },
+    {
+      "id": 5074,
+      "name": "Phường Xương Huân"
+    },
+    {
+      "id": 5075,
+      "name": "Xã Phước Đồng"
+    },
+    {
+      "id": 5076,
+      "name": "Xã Vĩnh Hiệp"
+    },
+    {
+      "id": 5077,
+      "name": "Xã Vĩnh Lương"
+    },
+    {
+      "id": 5078,
+      "name": "Xã Vĩnh Ngọc"
+    },
+    {
+      "id": 5079,
+      "name": "Xã Vĩnh Phương"
+    },
+    {
+      "id": 5080,
+      "name": "Xã Vĩnh Thái"
+    },
+    {
+      "id": 5081,
+      "name": "Xã Vĩnh Thạnh"
+    },
+    {
+      "id": 5082,
+      "name": "Xã Vĩnh Trung"
+    }
+  ]
+}

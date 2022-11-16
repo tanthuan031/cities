@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1638,
+      "name": "Phường Châu Văn Liêm"
+    },
+    {
+      "id": 1639,
+      "name": "Phường Long Hưng"
+    },
+    {
+      "id": 1640,
+      "name": "Phường Phước Thới"
+    },
+    {
+      "id": 1642,
+      "name": "Phường Thới An"
+    },
+    {
+      "id": 1641,
+      "name": "Phường Thới Hòa"
+    },
+    {
+      "id": 1643,
+      "name": "Phường Thới Long"
+    },
+    {
+      "id": 1644,
+      "name": "Phường Trường Lạc"
+    }
+  ]
+}

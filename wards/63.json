@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 11123,
+      "name": "Phường Đống Đa"
+    },
+    {
+      "id": 11124,
+      "name": "Phường Đồng Tâm"
+    },
+    {
+      "id": 11125,
+      "name": "Phường Hội Hợp"
+    },
+    {
+      "id": 11126,
+      "name": "Phường Khai Quang"
+    },
+    {
+      "id": 11127,
+      "name": "Phường Liên Bảo"
+    },
+    {
+      "id": 11128,
+      "name": "Phường Ngô Quyền"
+    },
+    {
+      "id": 11129,
+      "name": "Phường Tích Sơn"
+    },
+    {
+      "id": 11122,
+      "name": "Xã Định Trung"
+    },
+    {
+      "id": 11130,
+      "name": "Xã Thanh Trù"
+    }
+  ]
+}

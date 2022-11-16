@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 41,
+      "name": "Thị trấn Chợ Mới"
+    },
+    {
+      "id": 42,
+      "name": "Thị trấn Mỹ Luông"
+    },
+    {
+      "id": 43,
+      "name": "Xã An Thạnh Trung"
+    },
+    {
+      "id": 44,
+      "name": "Xã Bình Phước Xuân"
+    },
+    {
+      "id": 45,
+      "name": "Xã Hòa An"
+    },
+    {
+      "id": 46,
+      "name": "Xã Hòa Bình"
+    },
+    {
+      "id": 47,
+      "name": "Xã Hội An"
+    },
+    {
+      "id": 48,
+      "name": "Xã Kiến An"
+    },
+    {
+      "id": 49,
+      "name": "Xã Kiến Thành"
+    },
+    {
+      "id": 50,
+      "name": "Xã Long Điền A"
+    },
+    {
+      "id": 51,
+      "name": "Xã Long Điền B"
+    },
+    {
+      "id": 52,
+      "name": "Xã Long Giang"
+    },
+    {
+      "id": 53,
+      "name": "Xã Long Kiến"
+    },
+    {
+      "id": 54,
+      "name": "Xã Mỹ An"
+    },
+    {
+      "id": 55,
+      "name": "Xã Mỹ Hiệp"
+    },
+    {
+      "id": 56,
+      "name": "Xã Mỹ Hội Đông"
+    },
+    {
+      "id": 57,
+      "name": "Xã Nhơn Mỹ"
+    },
+    {
+      "id": 58,
+      "name": "Xã Tấn Mỹ"
+    }
+  ]
+}

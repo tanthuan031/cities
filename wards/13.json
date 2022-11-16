@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 3590,
+      "name": "Phường Dịch Vọng"
+    },
+    {
+      "id": 3591,
+      "name": "Phường Dịch Vọng Hậu"
+    },
+    {
+      "id": 3592,
+      "name": "Phường Mai Dịch"
+    },
+    {
+      "id": 3593,
+      "name": "Phường Nghĩa Đô"
+    },
+    {
+      "id": 3594,
+      "name": "Phường Nghĩa Tân"
+    },
+    {
+      "id": 3595,
+      "name": "Phường Quan Hoa"
+    },
+    {
+      "id": 3596,
+      "name": "Phường Trung Hoà"
+    },
+    {
+      "id": 3597,
+      "name": "Phường Yên Hoà"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 7075,
+      "name": "Thị trấn Tân Sơn"
+    },
+    {
+      "id": 7076,
+      "name": "Xã Hòa Sơn"
+    },
+    {
+      "id": 7077,
+      "name": "Xã Lâm Sơn"
+    },
+    {
+      "id": 7078,
+      "name": "Xã Lương Sơn"
+    },
+    {
+      "id": 7079,
+      "name": "Xã Ma Nới"
+    },
+    {
+      "id": 7080,
+      "name": "Xã Mỹ Sơn"
+    },
+    {
+      "id": 7081,
+      "name": "Xã Nhơn Sơn"
+    },
+    {
+      "id": 7082,
+      "name": "Xã Quảng Sơn"
+    }
+  ]
+}

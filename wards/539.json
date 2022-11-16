@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 8886,
+      "name": "Phường 1"
+    },
+    {
+      "id": 8887,
+      "name": "Phường 2"
+    },
+    {
+      "id": 8888,
+      "name": "Phường 3"
+    },
+    {
+      "id": 8889,
+      "name": "Phường 4"
+    },
+    {
+      "id": 8890,
+      "name": "Phường Hiệp Ninh"
+    },
+    {
+      "id": 8884,
+      "name": "Phường Ninh Sơn"
+    },
+    {
+      "id": 8885,
+      "name": "Phường Ninh Thạnh"
+    },
+    {
+      "id": 8883,
+      "name": "Xã Bình Minh"
+    },
+    {
+      "id": 8891,
+      "name": "Xã Tân Bình"
+    },
+    {
+      "id": 8892,
+      "name": "Xã Thạnh Tân"
+    }
+  ]
+}

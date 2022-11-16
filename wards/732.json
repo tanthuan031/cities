@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 11579,
+      "name": "Phường 1"
+    },
+    {
+      "id": 11580,
+      "name": "Phường 2"
+    },
+    {
+      "id": 11581,
+      "name": "Xã Dân Thành"
+    },
+    {
+      "id": 11582,
+      "name": "Xã Hiệp Thạnh"
+    },
+    {
+      "id": 11583,
+      "name": "Xã Long Hữu"
+    },
+    {
+      "id": 11584,
+      "name": "Xã Long Toàn"
+    },
+    {
+      "id": 11585,
+      "name": "Xã Trường Long Hòa"
+    }
+  ]
+}

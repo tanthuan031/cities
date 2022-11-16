@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 727,
+      "name": "Thị xã Kỳ Anh"
+    },
+    {
+      "id": 320,
+      "name": "Huyện Cẩm Xuyên"
+    },
+    {
+      "id": 321,
+      "name": "Huyện Vũ Quang"
+    },
+    {
+      "id": 322,
+      "name": "Thành phố Hà Tĩnh"
+    },
+    {
+      "id": 323,
+      "name": "Thị xã Hồng Lĩnh"
+    },
+    {
+      "id": 324,
+      "name": "Huyện Kỳ Anh"
+    },
+    {
+      "id": 325,
+      "name": "Huyện Can Lộc"
+    },
+    {
+      "id": 326,
+      "name": "Huyện Hương Sơn"
+    },
+    {
+      "id": 327,
+      "name": "Huyện Nghi Xuân"
+    },
+    {
+      "id": 328,
+      "name": "Huyện Hương Khê"
+    },
+    {
+      "id": 329,
+      "name": "Huyện Đức Thọ"
+    },
+    {
+      "id": 330,
+      "name": "Huyện Thạch Hà"
+    },
+    {
+      "id": 331,
+      "name": "Huyện Lộc Hà"
+    }
+  ]
+}

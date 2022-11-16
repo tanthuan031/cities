@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 15,
+      "name": "Huyện Tân Lạc"
+    },
+    {
+      "id": 16,
+      "name": "Huyện Mai Châu"
+    },
+    {
+      "id": 17,
+      "name": "Huyện Kim Bôi"
+    },
+    {
+      "id": 18,
+      "name": "Huyện Lương Sơn"
+    },
+    {
+      "id": 19,
+      "name": "Huyện Đà Bắc"
+    },
+    {
+      "id": 20,
+      "name": "Huyện Lạc Sơn"
+    },
+    {
+      "id": 21,
+      "name": "Huyện Kỳ Sơn"
+    },
+    {
+      "id": 22,
+      "name": "Huyện Yên Thủy"
+    },
+    {
+      "id": 23,
+      "name": "Huyện Lạc Thủy"
+    },
+    {
+      "id": 24,
+      "name": "Thành phố Hòa Bình"
+    },
+    {
+      "id": 703,
+      "name": "Huyện Cao Phong"
+    }
+  ]
+}

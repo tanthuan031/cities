@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 8303,
+      "name": "Phường Cộng Hòa"
+    },
+    {
+      "id": 8306,
+      "name": "Phường Đông Mai"
+    },
+    {
+      "id": 8312,
+      "name": "Phường Hà An"
+    },
+    {
+      "id": 8305,
+      "name": "Phường Minh Thành"
+    },
+    {
+      "id": 8309,
+      "name": "Phường Nam Hoà"
+    },
+    {
+      "id": 8315,
+      "name": "Phường Phong Cốc"
+    },
+    {
+      "id": 8311,
+      "name": "Phường Phong Hải"
+    },
+    {
+      "id": 8299,
+      "name": "Phường Quảng Yên"
+    },
+    {
+      "id": 8301,
+      "name": "Phường Tân An"
+    },
+    {
+      "id": 8308,
+      "name": "Phường Yên Giang"
+    },
+    {
+      "id": 8313,
+      "name": "Phường Yên Hải"
+    },
+    {
+      "id": 8310,
+      "name": "Xã Cẩm La"
+    },
+    {
+      "id": 8307,
+      "name": "Xã Hiệp Hòa"
+    },
+    {
+      "id": 8302,
+      "name": "Xã Hoàng Tân"
+    },
+    {
+      "id": 8314,
+      "name": "Xã Liên Hòa"
+    },
+    {
+      "id": 8316,
+      "name": "Xã Liên Vị"
+    },
+    {
+      "id": 8304,
+      "name": "Xã Sông Khoai"
+    },
+    {
+      "id": 8300,
+      "name": "Xã Tiền An"
+    },
+    {
+      "id": 8317,
+      "name": "Xã Tiền Phong"
+    }
+  ]
+}

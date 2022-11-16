@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 3452,
+      "name": "Thị trấn Kim Bài"
+    },
+    {
+      "id": 3453,
+      "name": "Xã Bích Hòa"
+    },
+    {
+      "id": 3454,
+      "name": "Xã Bình Minh"
+    },
+    {
+      "id": 3455,
+      "name": "Xã Cao Dương"
+    },
+    {
+      "id": 3456,
+      "name": "Xã Cao Viên"
+    },
+    {
+      "id": 3457,
+      "name": "Xã Cự Khê"
+    },
+    {
+      "id": 3458,
+      "name": "Xã Dân Hòa"
+    },
+    {
+      "id": 3459,
+      "name": "Xã Đỗ Động"
+    },
+    {
+      "id": 3460,
+      "name": "Xã Hồng Dương"
+    },
+    {
+      "id": 3461,
+      "name": "Xã Kim An"
+    },
+    {
+      "id": 3462,
+      "name": "Xã Kim Thư"
+    },
+    {
+      "id": 3463,
+      "name": "Xã Liên Châu"
+    },
+    {
+      "id": 3464,
+      "name": "Xã Mỹ Hưng"
+    },
+    {
+      "id": 3465,
+      "name": "Xã Phương Trung"
+    },
+    {
+      "id": 3466,
+      "name": "Xã Tam Hưng"
+    },
+    {
+      "id": 3467,
+      "name": "Xã Tân Ước"
+    },
+    {
+      "id": 3468,
+      "name": "Xã Thanh Cao"
+    },
+    {
+      "id": 3469,
+      "name": "Xã Thanh Mai"
+    },
+    {
+      "id": 3470,
+      "name": "Xã Thanh Thùy"
+    },
+    {
+      "id": 3471,
+      "name": "Xã Thanh Văn"
+    },
+    {
+      "id": 3472,
+      "name": "Xã Xuân Dương"
+    }
+  ]
+}

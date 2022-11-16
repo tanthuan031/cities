@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 10615,
+      "name": "Phường Hiệp Tân"
+    },
+    {
+      "id": 10616,
+      "name": "Phường Hòa Thạnh"
+    },
+    {
+      "id": 10617,
+      "name": "Phường Phú Thạnh"
+    },
+    {
+      "id": 10618,
+      "name": "Phường Phú Thọ Hòa"
+    },
+    {
+      "id": 10619,
+      "name": "Phường Phú Trung"
+    },
+    {
+      "id": 10620,
+      "name": "Phường Sơn Kỳ"
+    },
+    {
+      "id": 10621,
+      "name": "Phường Tân Quý"
+    },
+    {
+      "id": 10622,
+      "name": "Phường Tân Sơn Nhì"
+    },
+    {
+      "id": 10623,
+      "name": "Phường Tân Thành"
+    },
+    {
+      "id": 10624,
+      "name": "Phường Tân Thới Hòa"
+    },
+    {
+      "id": 10625,
+      "name": "Phường Tây Thạnh"
+    }
+  ]
+}

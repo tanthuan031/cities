@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 756,
+      "name": "Phường Đại Phúc"
+    },
+    {
+      "id": 757,
+      "name": "Phường Đáp Cầu"
+    },
+    {
+      "id": 750,
+      "name": "Phường Hạp Lĩnh"
+    },
+    {
+      "id": 752,
+      "name": "Phường Khắc Niệm"
+    },
+    {
+      "id": 753,
+      "name": "Phường Khúc Xuyên"
+    },
+    {
+      "id": 758,
+      "name": "Phường Kinh Bắc"
+    },
+    {
+      "id": 759,
+      "name": "Phường Ninh Xá"
+    },
+    {
+      "id": 766,
+      "name": "Phường Phong Khê"
+    },
+    {
+      "id": 760,
+      "name": "Phường Suối Hoa"
+    },
+    {
+      "id": 761,
+      "name": "Phường Thị Cầu"
+    },
+    {
+      "id": 762,
+      "name": "Phường Tiền An"
+    },
+    {
+      "id": 767,
+      "name": "Phường Vạn An"
+    },
+    {
+      "id": 768,
+      "name": "Phường Vân Dương"
+    },
+    {
+      "id": 763,
+      "name": "Phường Vệ An"
+    },
+    {
+      "id": 764,
+      "name": "Phường Võ Cường"
+    },
+    {
+      "id": 765,
+      "name": "Phường Vũ Ninh"
+    },
+    {
+      "id": 751,
+      "name": "Xã Hòa Long"
+    },
+    {
+      "id": 754,
+      "name": "Xã Kim Chân"
+    },
+    {
+      "id": 755,
+      "name": "Xã Nam Sơn"
+    }
+  ]
+}

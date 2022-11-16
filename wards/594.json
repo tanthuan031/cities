@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 10244,
+      "name": "Thị trấn Tân Hòa"
+    },
+    {
+      "id": 10256,
+      "name": "Thị trấn Vàm Láng"
+    },
+    {
+      "id": 10245,
+      "name": "Xã Bình Ân"
+    },
+    {
+      "id": 10246,
+      "name": "Xã Bình Nghị"
+    },
+    {
+      "id": 10247,
+      "name": "Xã Gia Thuận"
+    },
+    {
+      "id": 10248,
+      "name": "Xã Kiểng Phước"
+    },
+    {
+      "id": 10249,
+      "name": "Xã Phước Trung"
+    },
+    {
+      "id": 10255,
+      "name": "Xã Tăng Hoà"
+    },
+    {
+      "id": 10250,
+      "name": "Xã Tân Điền"
+    },
+    {
+      "id": 10251,
+      "name": "Xã Tân Đông"
+    },
+    {
+      "id": 10252,
+      "name": "Xã Tân Phước"
+    },
+    {
+      "id": 10253,
+      "name": "Xã Tân Tây"
+    },
+    {
+      "id": 10254,
+      "name": "Xã Tân Thành"
+    }
+  ]
+}

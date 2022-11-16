@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1066,
+      "name": "Thị trấn Vân Canh"
+    },
+    {
+      "id": 1067,
+      "name": "Xã Canh Hiển"
+    },
+    {
+      "id": 1068,
+      "name": "Xã Canh Hiệp"
+    },
+    {
+      "id": 1069,
+      "name": "Xã Canh Hòa"
+    },
+    {
+      "id": 1070,
+      "name": "Xã Canh Liên"
+    },
+    {
+      "id": 1071,
+      "name": "Xã Canh Thuận"
+    },
+    {
+      "id": 1072,
+      "name": "Xã Canh Vinh"
+    }
+  ]
+}

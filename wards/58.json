@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 11008,
+      "name": "Thị trấn Gia Khánh"
+    },
+    {
+      "id": 11004,
+      "name": "Thị trấn Hương Canh"
+    },
+    {
+      "id": 11005,
+      "name": "Thị trấn Thanh Lãng"
+    },
+    {
+      "id": 11006,
+      "name": "Xã Bá Hiến"
+    },
+    {
+      "id": 11007,
+      "name": "Xã Đạo Đức"
+    },
+    {
+      "id": 11009,
+      "name": "Xã Hương Sơn"
+    },
+    {
+      "id": 11588,
+      "name": "Xã Phú Xuân"
+    },
+    {
+      "id": 11010,
+      "name": "Xã Quất Lưu"
+    },
+    {
+      "id": 11011,
+      "name": "Xã Sơn Lôi"
+    },
+    {
+      "id": 11012,
+      "name": "Xã Tam Hợp"
+    },
+    {
+      "id": 11013,
+      "name": "Xã Tân Phong"
+    },
+    {
+      "id": 11014,
+      "name": "Xã Thiện Kế"
+    },
+    {
+      "id": 11015,
+      "name": "Xã Trung Mỹ"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1122,
+      "name": "Phường Chánh Phú Hòa"
+    },
+    {
+      "id": 1123,
+      "name": "Phường Hòa Lợi"
+    },
+    {
+      "id": 1118,
+      "name": "Phường Mỹ Phước"
+    },
+    {
+      "id": 1129,
+      "name": "Phường Tân Định"
+    },
+    {
+      "id": 11590,
+      "name": "Phường Thới Hòa"
+    },
+    {
+      "id": 1119,
+      "name": "Xã An Điền"
+    },
+    {
+      "id": 1120,
+      "name": "Xã An Tây"
+    },
+    {
+      "id": 1128,
+      "name": "Xã Phú An"
+    }
+  ]
+}

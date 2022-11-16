@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 10033,
+      "name": "Phường Hương An"
+    },
+    {
+      "id": 10035,
+      "name": "Phường Hương Chữ"
+    },
+    {
+      "id": 10036,
+      "name": "Phường Hương Hồ"
+    },
+    {
+      "id": 10041,
+      "name": "Phường Hương Văn"
+    },
+    {
+      "id": 10040,
+      "name": "Phường Hương Vân"
+    },
+    {
+      "id": 10043,
+      "name": "Phường Hương Xuân"
+    },
+    {
+      "id": 10028,
+      "name": "Phường Tứ Hạ"
+    },
+    {
+      "id": 10029,
+      "name": "Xã Bình Điền"
+    },
+    {
+      "id": 10030,
+      "name": "Xã Bình Thành"
+    },
+    {
+      "id": 10031,
+      "name": "Xã Hải Dương"
+    },
+    {
+      "id": 10032,
+      "name": "Xã Hồng Tiến"
+    },
+    {
+      "id": 10034,
+      "name": "Xã Hương Bình"
+    },
+    {
+      "id": 10037,
+      "name": "Xã Hương Phong"
+    },
+    {
+      "id": 10038,
+      "name": "Xã Hương Thọ"
+    },
+    {
+      "id": 10039,
+      "name": "Xã Hương Toàn"
+    },
+    {
+      "id": 10042,
+      "name": "Xã Hương Vinh"
+    }
+  ]
+}

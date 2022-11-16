@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 3636,
+      "name": "Phường Bạch Đằng"
+    },
+    {
+      "id": 3637,
+      "name": "Phường Bách Khoa"
+    },
+    {
+      "id": 3638,
+      "name": "Phường Bạch Mai"
+    },
+    {
+      "id": 3639,
+      "name": "Phường Bùi Thị Xuân"
+    },
+    {
+      "id": 3640,
+      "name": "Phường Cầu Dền"
+    },
+    {
+      "id": 3641,
+      "name": "Phường Đống Mác"
+    },
+    {
+      "id": 3642,
+      "name": "Phường Đồng Nhân"
+    },
+    {
+      "id": 3643,
+      "name": "Phường Đồng Tâm"
+    },
+    {
+      "id": 3644,
+      "name": "Phường Lê Đại Hành"
+    },
+    {
+      "id": 3645,
+      "name": "Phường Minh Khai"
+    },
+    {
+      "id": 3646,
+      "name": "Phường Ngô Thì Nhậm"
+    },
+    {
+      "id": 3647,
+      "name": "Phường Nguyễn Du"
+    },
+    {
+      "id": 3648,
+      "name": "Phường Phạm Đình Hổ"
+    },
+    {
+      "id": 3649,
+      "name": "Phường Phố Huế"
+    },
+    {
+      "id": 3650,
+      "name": "Phường Quỳnh Lôi"
+    },
+    {
+      "id": 3651,
+      "name": "Phường Quỳnh Mai"
+    },
+    {
+      "id": 3652,
+      "name": "Phường Thanh Lương"
+    },
+    {
+      "id": 3653,
+      "name": "Phường Thanh Nhàn"
+    },
+    {
+      "id": 3654,
+      "name": "Phường Trương Định"
+    },
+    {
+      "id": 3655,
+      "name": "Phường Vĩnh Tuy"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 11521,
+      "name": "Phường 1"
+    },
+    {
+      "id": 11522,
+      "name": "Phường 2"
+    },
+    {
+      "id": 8549,
+      "name": "Phường Khánh Hòa"
+    },
+    {
+      "id": 8555,
+      "name": "Phường Vĩnh Phước"
+    },
+    {
+      "id": 8547,
+      "name": "Thị trấn Vĩnh Châu"
+    },
+    {
+      "id": 8548,
+      "name": "Xã Hòa Đông"
+    },
+    {
+      "id": 8550,
+      "name": "Xã Lạc Hòa"
+    },
+    {
+      "id": 8551,
+      "name": "Xã Lai Hòa"
+    },
+    {
+      "id": 8552,
+      "name": "Xã Vĩnh Châu"
+    },
+    {
+      "id": 8553,
+      "name": "Xã Vĩnh Hải"
+    },
+    {
+      "id": 8554,
+      "name": "Xã Vĩnh Hiệp"
+    },
+    {
+      "id": 8556,
+      "name": "Xã Vĩnh Tân"
+    }
+  ]
+}

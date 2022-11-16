@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 7034,
+      "name": "Phường Bắc Sơn"
+    },
+    {
+      "id": 7035,
+      "name": "Phường Nam Sơn"
+    },
+    {
+      "id": 7036,
+      "name": "Phường Tân Bình"
+    },
+    {
+      "id": 7037,
+      "name": "Phường Tây Sơn"
+    },
+    {
+      "id": 7038,
+      "name": "Phường Trung Sơn"
+    },
+    {
+      "id": 7040,
+      "name": "Phường Yên Bình"
+    },
+    {
+      "id": 7033,
+      "name": "Xã Đông Sơn"
+    },
+    {
+      "id": 7039,
+      "name": "Xã Quang Sơn"
+    },
+    {
+      "id": 7041,
+      "name": "Xã Yên Sơn"
+    }
+  ]
+}

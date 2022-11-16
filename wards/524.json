@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1337,
+      "name": "Phường Tân Bình"
+    },
+    {
+      "id": 1338,
+      "name": "Phường Tân Đồng"
+    },
+    {
+      "id": 1339,
+      "name": "Phường Tân Phú"
+    },
+    {
+      "id": 1340,
+      "name": "Phường Tân Thiện"
+    },
+    {
+      "id": 1341,
+      "name": "Phường Tân Xuân"
+    },
+    {
+      "id": 1342,
+      "name": "Xã Tân Thành"
+    },
+    {
+      "id": 1343,
+      "name": "Xã Tiến Hưng"
+    },
+    {
+      "id": 1344,
+      "name": "Xã Tiến Thành"
+    }
+  ]
+}

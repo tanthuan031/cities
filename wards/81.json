@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 5446,
+      "name": "Phường Đoàn Kết"
+    },
+    {
+      "id": 11467,
+      "name": "Phường Đông Phong"
+    },
+    {
+      "id": 5447,
+      "name": "Phường Quyết Thắng"
+    },
+    {
+      "id": 11468,
+      "name": "Phường Quyết Tiến"
+    },
+    {
+      "id": 5448,
+      "name": "Phường Tân Phong"
+    },
+    {
+      "id": 5445,
+      "name": "Xã Nậm Loỏng"
+    },
+    {
+      "id": 5449,
+      "name": "Xã San Thàng"
+    }
+  ]
+}

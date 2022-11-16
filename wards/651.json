@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 620,
+      "name": "Thị trấn Ngan Dừa"
+    },
+    {
+      "id": 621,
+      "name": "Xã Lộc Ninh"
+    },
+    {
+      "id": 622,
+      "name": "Xã Ninh Hòa"
+    },
+    {
+      "id": 623,
+      "name": "Xã Ninh Quới"
+    },
+    {
+      "id": 624,
+      "name": "Xã Ninh Quới A"
+    },
+    {
+      "id": 625,
+      "name": "Xã Ninh Thạnh Lợi"
+    },
+    {
+      "id": 626,
+      "name": "Xã Ninh Thạnh Lợi A"
+    },
+    {
+      "id": 627,
+      "name": "Xã Vĩnh Lộc"
+    },
+    {
+      "id": 628,
+      "name": "Xã Vĩnh Lộc A"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 89,
+      "name": "Thị trấn Núi Sập"
+    },
+    {
+      "id": 90,
+      "name": "Thị Trấn Óc Eo"
+    },
+    {
+      "id": 91,
+      "name": "Thị Trấn Phú Hoà"
+    },
+    {
+      "id": 92,
+      "name": "Xã An Bình"
+    },
+    {
+      "id": 93,
+      "name": "Xã Bình Thành"
+    },
+    {
+      "id": 94,
+      "name": "Xã Định Mỹ"
+    },
+    {
+      "id": 95,
+      "name": "Xã Định Thành"
+    },
+    {
+      "id": 96,
+      "name": "Xã Mỹ Phú Đông"
+    },
+    {
+      "id": 97,
+      "name": "Xã Phú Thuận"
+    },
+    {
+      "id": 98,
+      "name": "Xã Tây Phú"
+    },
+    {
+      "id": 99,
+      "name": "Xã Thoại Giang"
+    },
+    {
+      "id": 100,
+      "name": "Xã Vĩnh Chánh"
+    },
+    {
+      "id": 101,
+      "name": "Xã Vĩnh Khánh"
+    },
+    {
+      "id": 102,
+      "name": "Xã Vĩnh Phú"
+    },
+    {
+      "id": 103,
+      "name": "Xã Vĩnh Trạch"
+    },
+    {
+      "id": 104,
+      "name": "Xã Vọng Đông"
+    },
+    {
+      "id": 105,
+      "name": "Xã Vọng Thê"
+    }
+  ]
+}

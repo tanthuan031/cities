@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 8105,
+      "name": "Phường Chánh Lộ"
+    },
+    {
+      "id": 8106,
+      "name": "Phường Lê Hồng Phong"
+    },
+    {
+      "id": 8107,
+      "name": "Phường Nghĩa Chánh"
+    },
+    {
+      "id": 8108,
+      "name": "Phường Nghĩa Lộ"
+    },
+    {
+      "id": 8109,
+      "name": "Phường Nguyễn Nghiêm"
+    },
+    {
+      "id": 8110,
+      "name": "Phường Quảng Phú"
+    },
+    {
+      "id": 8111,
+      "name": "Phường Trần Hưng Đạo"
+    },
+    {
+      "id": 8112,
+      "name": "Phường Trần Phú"
+    },
+    {
+      "id": 11323,
+      "name": "Phường Trương Quang Trọng"
+    },
+    {
+      "id": 11505,
+      "name": "Xã Nghĩa An"
+    },
+    {
+      "id": 8103,
+      "name": "Xã Nghĩa Dõng"
+    },
+    {
+      "id": 8104,
+      "name": "Xã Nghĩa Dũng"
+    },
+    {
+      "id": 11506,
+      "name": "Xã Nghĩa Hà"
+    },
+    {
+      "id": 11507,
+      "name": "Xã Nghĩa Phú"
+    },
+    {
+      "id": 11508,
+      "name": "Xã Tịnh An"
+    },
+    {
+      "id": 11509,
+      "name": "Xã Tịnh Ấn Đông"
+    },
+    {
+      "id": 11510,
+      "name": "Xã Tịnh Ấn Tây"
+    },
+    {
+      "id": 11511,
+      "name": "Xã Tịnh Châu"
+    },
+    {
+      "id": 11512,
+      "name": "Xã Tịnh Hòa"
+    },
+    {
+      "id": 11513,
+      "name": "Xã Tịnh Khê"
+    },
+    {
+      "id": 11514,
+      "name": "Xã Tịnh Kỳ"
+    },
+    {
+      "id": 11335,
+      "name": "Xã Tịnh Long"
+    },
+    {
+      "id": 11515,
+      "name": "Xã Tịnh Thiện"
+    }
+  ]
+}

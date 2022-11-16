@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 45,
+      "name": "Huyện Lâm Thao"
+    },
+    {
+      "id": 46,
+      "name": "Thị xã Phú Thọ"
+    },
+    {
+      "id": 47,
+      "name": "Thành phố Việt Trì"
+    },
+    {
+      "id": 48,
+      "name": "Huyện Thanh Thuỷ"
+    },
+    {
+      "id": 49,
+      "name": "Huyện Đoan Hùng"
+    },
+    {
+      "id": 50,
+      "name": "Huyện Cẩm Khê"
+    },
+    {
+      "id": 51,
+      "name": "Huyện Phù Ninh"
+    },
+    {
+      "id": 52,
+      "name": "Huyện Tam Nông"
+    },
+    {
+      "id": 53,
+      "name": "Huyện Thanh Ba"
+    },
+    {
+      "id": 54,
+      "name": "Huyện Yên Lập"
+    },
+    {
+      "id": 55,
+      "name": "Huyện Thanh Sơn"
+    },
+    {
+      "id": 56,
+      "name": "Huyện Hạ Hoà"
+    },
+    {
+      "id": 57,
+      "name": "Huyện Tân Sơn"
+    }
+  ]
+}

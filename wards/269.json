@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 10016,
+      "name": "Phường Phú Bài"
+    },
+    {
+      "id": 10020,
+      "name": "Phường Thủy Châu"
+    },
+    {
+      "id": 10021,
+      "name": "Phường Thủy Dương"
+    },
+    {
+      "id": 10022,
+      "name": "Phường Thủy Lương"
+    },
+    {
+      "id": 10024,
+      "name": "Phường Thủy Phương"
+    },
+    {
+      "id": 10017,
+      "name": "Xã Dương Hòa"
+    },
+    {
+      "id": 10018,
+      "name": "Xã Phú Sơn"
+    },
+    {
+      "id": 10019,
+      "name": "Xã Thủy Bằng"
+    },
+    {
+      "id": 10023,
+      "name": "Xã Thủy Phù"
+    },
+    {
+      "id": 10025,
+      "name": "Xã Thủy Tân"
+    },
+    {
+      "id": 10026,
+      "name": "Xã Thủy Thanh"
+    },
+    {
+      "id": 10027,
+      "name": "Xã Thủy Vân"
+    }
+  ]
+}

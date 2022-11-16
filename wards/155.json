@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 356,
+      "name": "Phường Đức Xuân"
+    },
+    {
+      "id": 353,
+      "name": "Phường Huyền Tụng"
+    },
+    {
+      "id": 354,
+      "name": "Phường Nguyễn Thị Minh Khai"
+    },
+    {
+      "id": 357,
+      "name": "Phường Phùng Chí Kiên"
+    },
+    {
+      "id": 358,
+      "name": "Phường Sông Cầu"
+    },
+    {
+      "id": 359,
+      "name": "Phường Xuất Hóa"
+    },
+    {
+      "id": 352,
+      "name": "Xã Dương Quang"
+    },
+    {
+      "id": 355,
+      "name": "Xã Nông Thượng"
+    }
+  ]
+}

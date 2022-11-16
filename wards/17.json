@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": 4610,
+      "name": "Thị trấn Bo"
+    },
+    {
+      "id": 4612,
+      "name": "Xã Bắc Sơn"
+    },
+    {
+      "id": 4613,
+      "name": "Xã Bình Sơn"
+    },
+    {
+      "id": 4616,
+      "name": "Xã Cuối Hạ"
+    },
+    {
+      "id": 4617,
+      "name": "Xã Đông Bắc"
+    },
+    {
+      "id": 4618,
+      "name": "Xã Đú Sáng"
+    },
+    {
+      "id": 4619,
+      "name": "Xã Hạ Bì"
+    },
+    {
+      "id": 4621,
+      "name": "Xã Hợp Đồng"
+    },
+    {
+      "id": 4622,
+      "name": "Xã Hợp Kim"
+    },
+    {
+      "id": 4624,
+      "name": "Xã Hùng Tiến"
+    },
+    {
+      "id": 4625,
+      "name": "Xã Kim Bình"
+    },
+    {
+      "id": 4626,
+      "name": "Xã Kim Bôi"
+    },
+    {
+      "id": 4627,
+      "name": "Xã Kim Sơn"
+    },
+    {
+      "id": 4628,
+      "name": "Xã Kim Tiến"
+    },
+    {
+      "id": 4629,
+      "name": "Xã Kim Truy"
+    },
+    {
+      "id": 4630,
+      "name": "Xã Lập Chiệng"
+    },
+    {
+      "id": 4632,
+      "name": "Xã Mi Hòa"
+    },
+    {
+      "id": 4633,
+      "name": "Xã Nam Thượng"
+    },
+    {
+      "id": 4634,
+      "name": "Xã Nật Sơn"
+    },
+    {
+      "id": 4635,
+      "name": "Xã Nuông Dăm"
+    },
+    {
+      "id": 4636,
+      "name": "Xã Sào Báy"
+    },
+    {
+      "id": 4637,
+      "name": "Xã Sơn Thủy"
+    },
+    {
+      "id": 4641,
+      "name": "Xã Thượng Bì"
+    },
+    {
+      "id": 4642,
+      "name": "Xã Thượng Tiến"
+    },
+    {
+      "id": 4643,
+      "name": "Xã Trung Bì"
+    },
+    {
+      "id": 4644,
+      "name": "Xã Tú Sơn"
+    },
+    {
+      "id": 4645,
+      "name": "Xã Vĩnh Đồng"
+    },
+    {
+      "id": 4646,
+      "name": "Xã Vĩnh Tiến"
+    }
+  ]
+}

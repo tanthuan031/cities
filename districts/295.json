@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 25,
+      "name": "Huyện Quang Bình"
+    },
+    {
+      "id": 26,
+      "name": "Huyện Vị Xuyên"
+    },
+    {
+      "id": 27,
+      "name": "Huyện Xín Mần"
+    },
+    {
+      "id": 28,
+      "name": "Huyện Yên Minh"
+    },
+    {
+      "id": 29,
+      "name": "Huyện Quản Bạ"
+    },
+    {
+      "id": 30,
+      "name": "Huyện Bắc Mê"
+    },
+    {
+      "id": 31,
+      "name": "Huyện Đồng Văn"
+    },
+    {
+      "id": 32,
+      "name": "Huyện Hoàng Su Phì"
+    },
+    {
+      "id": 33,
+      "name": "Huyện Bắc Quang"
+    },
+    {
+      "id": 34,
+      "name": "Huyện Mèo Vạc"
+    },
+    {
+      "id": 35,
+      "name": "Thành phố Hà Giang"
+    }
+  ]
+}

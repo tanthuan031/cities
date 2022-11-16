@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 36,
+      "name": "Thành phố Lào Cai"
+    },
+    {
+      "id": 37,
+      "name": "Huyện Bát Xát"
+    },
+    {
+      "id": 38,
+      "name": "Huyện Văn Bàn"
+    },
+    {
+      "id": 39,
+      "name": "Huyện Bảo Thắng"
+    },
+    {
+      "id": 40,
+      "name": "Huyện Si Ma Cai"
+    },
+    {
+      "id": 41,
+      "name": "Huyện Mường Khương"
+    },
+    {
+      "id": 42,
+      "name": "Huyện Sa Pa"
+    },
+    {
+      "id": 43,
+      "name": "Huyện Bảo Yên"
+    },
+    {
+      "id": 44,
+      "name": "Huyện Bắc Hà"
+    }
+  ]
+}

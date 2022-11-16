@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 1019,
+      "name": "Thị trấn Bình Dương"
+    },
+    {
+      "id": 1020,
+      "name": "Thị trấn Phù Mỹ"
+    },
+    {
+      "id": 1021,
+      "name": "Xã Mỹ An"
+    },
+    {
+      "id": 1022,
+      "name": "Xã Mỹ Cát"
+    },
+    {
+      "id": 1023,
+      "name": "Xã Mỹ Chánh"
+    },
+    {
+      "id": 1024,
+      "name": "Xã Mỹ Chánh Tây"
+    },
+    {
+      "id": 1025,
+      "name": "Xã Mỹ Châu"
+    },
+    {
+      "id": 1026,
+      "name": "Xã Mỹ Đức"
+    },
+    {
+      "id": 1027,
+      "name": "Xã Mỹ Hiệp"
+    },
+    {
+      "id": 1028,
+      "name": "Xã Mỹ Hòa"
+    },
+    {
+      "id": 1029,
+      "name": "Xã Mỹ Lộc"
+    },
+    {
+      "id": 1030,
+      "name": "Xã Mỹ Lợi"
+    },
+    {
+      "id": 1031,
+      "name": "Xã Mỹ Phong"
+    },
+    {
+      "id": 1032,
+      "name": "Xã Mỹ Quang"
+    },
+    {
+      "id": 1033,
+      "name": "Xã Mỹ Tài"
+    },
+    {
+      "id": 1035,
+      "name": "Xã Mỹ Thành"
+    },
+    {
+      "id": 1034,
+      "name": "Xã Mỹ Thắng"
+    },
+    {
+      "id": 1036,
+      "name": "Xã Mỹ Thọ"
+    },
+    {
+      "id": 1037,
+      "name": "Xã Mỹ Trinh"
+    }
+  ]
+}

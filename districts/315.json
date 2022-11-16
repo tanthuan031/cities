@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 135,
+      "name": "Huyện Chiêm Hóa"
+    },
+    {
+      "id": 136,
+      "name": "Huyện Sơn Dương"
+    },
+    {
+      "id": 137,
+      "name": "Huyện Yên Sơn"
+    },
+    {
+      "id": 138,
+      "name": "Huyện Hàm Yên"
+    },
+    {
+      "id": 139,
+      "name": "Huyện Nà Hang"
+    },
+    {
+      "id": 140,
+      "name": "Thành phố Tuyên Quang"
+    },
+    {
+      "id": 710,
+      "name": "Huyện Lâm Bình"
+    }
+  ]
+}

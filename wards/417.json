@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1001,
+      "name": "Thị trấn Ngô Mây"
+    },
+    {
+      "id": 1002,
+      "name": "Xã Cát Chánh"
+    },
+    {
+      "id": 1003,
+      "name": "Xã Cát Hải"
+    },
+    {
+      "id": 1004,
+      "name": "Xã Cát Hanh"
+    },
+    {
+      "id": 1005,
+      "name": "Xã Cát Hiệp"
+    },
+    {
+      "id": 1006,
+      "name": "Xã Cát Hưng"
+    },
+    {
+      "id": 1007,
+      "name": "Xã Cát Khánh"
+    },
+    {
+      "id": 1008,
+      "name": "Xã Cát Lâm"
+    },
+    {
+      "id": 1009,
+      "name": "Xã Cát Minh"
+    },
+    {
+      "id": 1010,
+      "name": "Xã Cát Nhơn"
+    },
+    {
+      "id": 1011,
+      "name": "Xã Cát Sơn"
+    },
+    {
+      "id": 1012,
+      "name": "Xã Cát Tài"
+    },
+    {
+      "id": 1013,
+      "name": "Xã Cát Tân"
+    },
+    {
+      "id": 1015,
+      "name": "Xã Cát Thành"
+    },
+    {
+      "id": 1014,
+      "name": "Xã Cát Thắng"
+    },
+    {
+      "id": 1016,
+      "name": "Xã Cát Tiến"
+    },
+    {
+      "id": 1017,
+      "name": "Xã Cát Trinh"
+    },
+    {
+      "id": 1018,
+      "name": "Xã Cát Tường"
+    }
+  ]
+}

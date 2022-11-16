@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 694,
+      "name": "Huyện Bác Ái"
+    },
+    {
+      "id": 695,
+      "name": "Huyện Ninh Hải"
+    },
+    {
+      "id": 696,
+      "name": "Huyện Ninh Phước"
+    },
+    {
+      "id": 697,
+      "name": "Huyện Ninh Sơn"
+    },
+    {
+      "id": 698,
+      "name": "Huyện Thuận Bắc"
+    },
+    {
+      "id": 699,
+      "name": "Huyện Thuận Nam"
+    },
+    {
+      "id": 700,
+      "name": "Thành phố Phan Rang-Tháp Chàm"
+    }
+  ]
+}

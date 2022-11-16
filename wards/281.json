@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 9593,
+      "name": "Thị trấn Bến Sung"
+    },
+    {
+      "id": 9594,
+      "name": "Xã Cán Khê"
+    },
+    {
+      "id": 9595,
+      "name": "Xã Hải Long"
+    },
+    {
+      "id": 9596,
+      "name": "Xã Hải Vân"
+    },
+    {
+      "id": 9597,
+      "name": "Xã Mậu Lâm"
+    },
+    {
+      "id": 9598,
+      "name": "Xã Phú Nhuận"
+    },
+    {
+      "id": 9599,
+      "name": "Xã Phúc Đường"
+    },
+    {
+      "id": 9600,
+      "name": "Xã Phượng Nghi"
+    },
+    {
+      "id": 9601,
+      "name": "Xã Thanh Kỳ"
+    },
+    {
+      "id": 9602,
+      "name": "Xã Thanh Tân"
+    },
+    {
+      "id": 9603,
+      "name": "Xã Xuân Du"
+    },
+    {
+      "id": 9604,
+      "name": "Xã Xuân Khang"
+    },
+    {
+      "id": 9605,
+      "name": "Xã Xuân Phúc"
+    },
+    {
+      "id": 9606,
+      "name": "Xã Xuân Thái"
+    },
+    {
+      "id": 9607,
+      "name": "Xã Xuân Thọ"
+    },
+    {
+      "id": 9608,
+      "name": "Xã Yên Lạc"
+    },
+    {
+      "id": 9609,
+      "name": "Xã Yên Thọ"
+    }
+  ]
+}

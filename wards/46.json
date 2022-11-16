@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 7382,
+      "name": "Phường Âu Cơ"
+    },
+    {
+      "id": 7383,
+      "name": "Phường Hùng Vương"
+    },
+    {
+      "id": 7384,
+      "name": "Phường Phong Châu"
+    },
+    {
+      "id": 7388,
+      "name": "Phường Thanh Vinh"
+    },
+    {
+      "id": 7385,
+      "name": "Phường Trường Thịnh"
+    },
+    {
+      "id": 7380,
+      "name": "Xã Hà Lộc"
+    },
+    {
+      "id": 7381,
+      "name": "Xã Hà Thạch"
+    },
+    {
+      "id": 7386,
+      "name": "Xã Phú Hộ"
+    },
+    {
+      "id": 7387,
+      "name": "Xã Thanh Minh"
+    },
+    {
+      "id": 7389,
+      "name": "Xã Văn Lung"
+    }
+  ]
+}

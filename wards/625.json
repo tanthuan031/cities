@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 5219,
+      "name": "Thị trấn Vĩnh Thuận"
+    },
+    {
+      "id": 11455,
+      "name": "Xã Bình Minh"
+    },
+    {
+      "id": 11456,
+      "name": "Xã Phong Đông"
+    },
+    {
+      "id": 5220,
+      "name": "Xã Tân Thuận"
+    },
+    {
+      "id": 5221,
+      "name": "Xã Vĩnh Bình Bắc"
+    },
+    {
+      "id": 5222,
+      "name": "Xã Vĩnh Bình Nam"
+    },
+    {
+      "id": 5223,
+      "name": "Xã Vĩnh Phong"
+    },
+    {
+      "id": 5224,
+      "name": "Xã Vĩnh Thuận"
+    }
+  ]
+}

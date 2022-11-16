@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 6177,
+      "name": "Phường 1"
+    },
+    {
+      "id": 6178,
+      "name": "Phường 2"
+    },
+    {
+      "id": 6179,
+      "name": "Phường 3"
+    },
+    {
+      "id": 6180,
+      "name": "Phường 4"
+    },
+    {
+      "id": 6181,
+      "name": "Phường 5"
+    },
+    {
+      "id": 6182,
+      "name": "Phường 6"
+    },
+    {
+      "id": 6183,
+      "name": "Phường 7"
+    },
+    {
+      "id": 6184,
+      "name": "Phường Khánh Hậu"
+    },
+    {
+      "id": 6185,
+      "name": "Phường Tân Khánh"
+    },
+    {
+      "id": 6172,
+      "name": "Xã An Vĩnh Ngãi"
+    },
+    {
+      "id": 6173,
+      "name": "Xã Bình Tâm"
+    },
+    {
+      "id": 6174,
+      "name": "Xã Hướng Thọ Phú"
+    },
+    {
+      "id": 6175,
+      "name": "Xã Lợi Bình Nhơn"
+    },
+    {
+      "id": 6176,
+      "name": "Xã Nhơn Thạnh Trung"
+    }
+  ]
+}

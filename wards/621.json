@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 28,
+      "name": "Thị trấn An Châu"
+    },
+    {
+      "id": 29,
+      "name": "Xã An Hòa"
+    },
+    {
+      "id": 30,
+      "name": "Xã Bình Hòa"
+    },
+    {
+      "id": 31,
+      "name": "Xã Bình Thạnh"
+    },
+    {
+      "id": 32,
+      "name": "Xã Cần Đăng"
+    },
+    {
+      "id": 33,
+      "name": "Xã Hòa Bình Thạnh"
+    },
+    {
+      "id": 34,
+      "name": "Xã Tân Phú"
+    },
+    {
+      "id": 35,
+      "name": "Xã Vĩnh An"
+    },
+    {
+      "id": 36,
+      "name": "Xã Vĩnh Bình"
+    },
+    {
+      "id": 37,
+      "name": "Xã Vĩnh Hanh"
+    },
+    {
+      "id": 38,
+      "name": "Xã Vĩnh Lợi"
+    },
+    {
+      "id": 39,
+      "name": "Xã Vĩnh Nhuận"
+    },
+    {
+      "id": 40,
+      "name": "Xã Vĩnh Thành"
+    }
+  ]
+}

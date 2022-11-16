@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 250,
+      "name": "Thành phố Phủ Lý"
+    },
+    {
+      "id": 251,
+      "name": "Huyện Bình Lục"
+    },
+    {
+      "id": 252,
+      "name": "Huyện Duy Tiên"
+    },
+    {
+      "id": 253,
+      "name": "Huyện Kim Bảng"
+    },
+    {
+      "id": 254,
+      "name": "Huyện Lý Nhân"
+    },
+    {
+      "id": 255,
+      "name": "Huyện Thanh Liêm"
+    }
+  ]
+}

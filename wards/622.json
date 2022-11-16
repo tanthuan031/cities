@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 120,
+      "name": "Thị trấn Ba Chúc"
+    },
+    {
+      "id": 121,
+      "name": "Thị trấn Tri Tôn"
+    },
+    {
+      "id": 122,
+      "name": "Xã An Tức"
+    },
+    {
+      "id": 123,
+      "name": "Xã Châu Lăng"
+    },
+    {
+      "id": 124,
+      "name": "Xã Cô Tô"
+    },
+    {
+      "id": 125,
+      "name": "Xã Lạc Quới"
+    },
+    {
+      "id": 126,
+      "name": "Xã Lê Trì"
+    },
+    {
+      "id": 127,
+      "name": "Xã Lương An Trà"
+    },
+    {
+      "id": 128,
+      "name": "Xã Lương Phi"
+    },
+    {
+      "id": 129,
+      "name": "Xã Núi Tô"
+    },
+    {
+      "id": 130,
+      "name": "Xã Ô Lâm"
+    },
+    {
+      "id": 131,
+      "name": "Xã Tà Đảnh"
+    },
+    {
+      "id": 132,
+      "name": "Xã Tân Tuyến"
+    },
+    {
+      "id": 133,
+      "name": "Xã Vĩnh Gia"
+    },
+    {
+      "id": 134,
+      "name": "Xã Vĩnh Phước"
+    }
+  ]
+}

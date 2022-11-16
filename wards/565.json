@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1645,
+      "name": "Phường Tân Hưng"
+    },
+    {
+      "id": 1646,
+      "name": "Phường Tân Lộc"
+    },
+    {
+      "id": 1647,
+      "name": "Phường Thạnh Hoà"
+    },
+    {
+      "id": 1649,
+      "name": "Phường Thốt Nốt"
+    },
+    {
+      "id": 1648,
+      "name": "Phường Thới Thuận"
+    },
+    {
+      "id": 1650,
+      "name": "Phường Thuận An"
+    },
+    {
+      "id": 1651,
+      "name": "Phường Thuận Hưng"
+    },
+    {
+      "id": 1652,
+      "name": "Phường Trung Kiên"
+    },
+    {
+      "id": 1653,
+      "name": "Phường Trung Nhứt"
+    }
+  ]
+}

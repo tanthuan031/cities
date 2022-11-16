@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 5974,
+      "name": "Phường Bắc Cường"
+    },
+    {
+      "id": 5975,
+      "name": "Phường Bắc Lệnh"
+    },
+    {
+      "id": 5976,
+      "name": "Phường Bình Minh"
+    },
+    {
+      "id": 5977,
+      "name": "Phường Cốc Lếu"
+    },
+    {
+      "id": 5978,
+      "name": "Phường Duyên Hải"
+    },
+    {
+      "id": 5979,
+      "name": "Phường Kim Tân"
+    },
+    {
+      "id": 5980,
+      "name": "Phường Lào Cai"
+    },
+    {
+      "id": 5981,
+      "name": "Phường Nam Cường"
+    },
+    {
+      "id": 5982,
+      "name": "Phường Phố Mới"
+    },
+    {
+      "id": 5983,
+      "name": "Phường Pom Hán"
+    },
+    {
+      "id": 5984,
+      "name": "Phường Thống Nhất"
+    },
+    {
+      "id": 5985,
+      "name": "Phường Xuân Tăng"
+    },
+    {
+      "id": 5971,
+      "name": "Xã Cam Đường"
+    },
+    {
+      "id": 5972,
+      "name": "Xã Đồng Tuyển"
+    },
+    {
+      "id": 5973,
+      "name": "Xã Hợp Thành"
+    },
+    {
+      "id": 5986,
+      "name": "Xã Tả Phời"
+    },
+    {
+      "id": 5987,
+      "name": "Xã Vạn Hoà"
+    }
+  ]
+}

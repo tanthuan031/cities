@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 211,
+      "name": "Phường 1"
+    },
+    {
+      "id": 212,
+      "name": "Phường 10"
+    },
+    {
+      "id": 213,
+      "name": "Phường 11"
+    },
+    {
+      "id": 214,
+      "name": "Phường 12"
+    },
+    {
+      "id": 215,
+      "name": "Phường 2"
+    },
+    {
+      "id": 216,
+      "name": "Phường 3"
+    },
+    {
+      "id": 217,
+      "name": "Phường 4"
+    },
+    {
+      "id": 218,
+      "name": "Phường 5"
+    },
+    {
+      "id": 220,
+      "name": "Phường 7"
+    },
+    {
+      "id": 221,
+      "name": "Phường 8"
+    },
+    {
+      "id": 222,
+      "name": "Phường 9"
+    },
+    {
+      "id": 223,
+      "name": "Phường Nguyễn An Ninh"
+    },
+    {
+      "id": 224,
+      "name": "Phường Rạch Dừa"
+    },
+    {
+      "id": 225,
+      "name": "Phường Thắng Nhất"
+    },
+    {
+      "id": 11342,
+      "name": "Phường Thắng Nhì"
+    },
+    {
+      "id": 226,
+      "name": "Phường Thắng Tam"
+    },
+    {
+      "id": 210,
+      "name": "Xã Long Sơn"
+    }
+  ]
+}

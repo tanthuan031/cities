@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 4448,
+      "name": "Phường Cát Bi"
+    },
+    {
+      "id": 4449,
+      "name": "Phường Đằng Hải"
+    },
+    {
+      "id": 4450,
+      "name": "Phường Đằng Lâm"
+    },
+    {
+      "id": 4451,
+      "name": "Phường Đông Hải 1"
+    },
+    {
+      "id": 4452,
+      "name": "Phường Đông Hải 2"
+    },
+    {
+      "id": 4453,
+      "name": "Phường Nam Hải"
+    },
+    {
+      "id": 4454,
+      "name": "Phường Thành Tô"
+    },
+    {
+      "id": 4455,
+      "name": "Phường Tràng Cát"
+    }
+  ]
+}

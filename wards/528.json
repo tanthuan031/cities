@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1336,
+      "name": "Phường Long Phước"
+    },
+    {
+      "id": 1335,
+      "name": "Phường Long Thủy"
+    },
+    {
+      "id": 1313,
+      "name": "Phường Phước Bình"
+    },
+    {
+      "id": 1333,
+      "name": "Phường Sơn Giang"
+    },
+    {
+      "id": 1314,
+      "name": "Phường Thác Mơ"
+    },
+    {
+      "id": 1334,
+      "name": "Xã Long Giang"
+    },
+    {
+      "id": 1332,
+      "name": "Xã Phước Tín"
+    }
+  ]
+}

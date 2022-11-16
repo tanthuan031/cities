@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1170,
+      "name": "Phường Khánh Bình"
+    },
+    {
+      "id": 1175,
+      "name": "Phường Tân Hiệp"
+    },
+    {
+      "id": 1163,
+      "name": "Phường Tân Phước Khánh"
+    },
+    {
+      "id": 1180,
+      "name": "Phường Thái Hòa"
+    },
+    {
+      "id": 1181,
+      "name": "Phường Thạnh Hội"
+    },
+    {
+      "id": 1164,
+      "name": "Phường Uyên Hưng"
+    },
+    {
+      "id": 1165,
+      "name": "Xã Bạch Đàng"
+    },
+    {
+      "id": 1169,
+      "name": "Xã Hội Nghĩa"
+    },
+    {
+      "id": 1172,
+      "name": "Xã Phú Chánh"
+    },
+    {
+      "id": 1179,
+      "name": "Xã Tân Vĩnh Hiệp"
+    },
+    {
+      "id": 1182,
+      "name": "Xã Thạnh Phước"
+    },
+    {
+      "id": 1184,
+      "name": "Xã Vĩnh Tân"
+    }
+  ]
+}

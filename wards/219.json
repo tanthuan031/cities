@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 8192,
+      "name": "Thị trấn Tiên Yên"
+    },
+    {
+      "id": 8193,
+      "name": "Xã Đại Dực"
+    },
+    {
+      "id": 8194,
+      "name": "Xã Đại Thành"
+    },
+    {
+      "id": 8195,
+      "name": "Xã Điền Xá"
+    },
+    {
+      "id": 8196,
+      "name": "Xã Đông Hải"
+    },
+    {
+      "id": 8197,
+      "name": "Xã Đông Ngũ"
+    },
+    {
+      "id": 8198,
+      "name": "Xã Đồng Rui"
+    },
+    {
+      "id": 8199,
+      "name": "Xã Hà Lâu"
+    },
+    {
+      "id": 8200,
+      "name": "Xã Hải Lạng"
+    },
+    {
+      "id": 8201,
+      "name": "Xã Phong Dụ"
+    },
+    {
+      "id": 8202,
+      "name": "Xã Tiên Lãng"
+    },
+    {
+      "id": 8203,
+      "name": "Xã Yên Than"
+    }
+  ]
+}

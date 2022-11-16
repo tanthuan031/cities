@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 11553,
+      "name": "Phường 1"
+    },
+    {
+      "id": 11554,
+      "name": "Phường 2"
+    },
+    {
+      "id": 11555,
+      "name": "Phường 3"
+    },
+    {
+      "id": 11556,
+      "name": "Phường 4"
+    },
+    {
+      "id": 11557,
+      "name": "Phường 5"
+    },
+    {
+      "id": 10187,
+      "name": "Phường Nhị Mỹ"
+    },
+    {
+      "id": 10177,
+      "name": "Xã Long Khánh"
+    },
+    {
+      "id": 10180,
+      "name": "Xã Mỹ Hạnh Đông"
+    },
+    {
+      "id": 10181,
+      "name": "Xã Mỹ Hạnh Trung"
+    },
+    {
+      "id": 10183,
+      "name": "Xã Mỹ Phước Tây"
+    },
+    {
+      "id": 10188,
+      "name": "Xã Nhị Quý"
+    },
+    {
+      "id": 10192,
+      "name": "Xã Phú Quý"
+    },
+    {
+      "id": 10194,
+      "name": "Xã Tân Bình"
+    },
+    {
+      "id": 10195,
+      "name": "Xã Tân Hội"
+    },
+    {
+      "id": 10196,
+      "name": "Xã Tân Phú"
+    },
+    {
+      "id": 10198,
+      "name": "Xã Thanh Hòa"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 5098,
+      "name": "Thị trấn Thứ Ba"
+    },
+    {
+      "id": 5099,
+      "name": "Xã Đông Thái"
+    },
+    {
+      "id": 5100,
+      "name": "Xã Đông Yên"
+    },
+    {
+      "id": 5101,
+      "name": "Xã Hưng Yên"
+    },
+    {
+      "id": 5102,
+      "name": "Xã Nam Thái"
+    },
+    {
+      "id": 5103,
+      "name": "Xã Nam Thái A"
+    },
+    {
+      "id": 5104,
+      "name": "Xã Nam Yên"
+    },
+    {
+      "id": 5105,
+      "name": "Xã Tây Yên"
+    },
+    {
+      "id": 5106,
+      "name": "Xã Tây Yên A"
+    }
+  ]
+}

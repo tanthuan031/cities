@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 6880,
+      "name": "Phường Nghi Hải"
+    },
+    {
+      "id": 6881,
+      "name": "Phường Nghi Hòa"
+    },
+    {
+      "id": 6878,
+      "name": "Phường Nghi Hương"
+    },
+    {
+      "id": 6882,
+      "name": "Phường Nghi Tân"
+    },
+    {
+      "id": 6879,
+      "name": "Phường Nghi Thu"
+    },
+    {
+      "id": 6883,
+      "name": "Phường Nghi Thuỷ"
+    },
+    {
+      "id": 6884,
+      "name": "Phường Thu Thuỷ"
+    }
+  ]
+}

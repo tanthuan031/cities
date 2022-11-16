@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 10526,
+      "name": "Phường Hiệp Phú"
+    },
+    {
+      "id": 10527,
+      "name": "Phường Long Bình"
+    },
+    {
+      "id": 10528,
+      "name": "Phường Long Phước"
+    },
+    {
+      "id": 10529,
+      "name": "Phường Long Thạnh Mỹ"
+    },
+    {
+      "id": 10530,
+      "name": "Phường Long Trường"
+    },
+    {
+      "id": 10531,
+      "name": "Phường Phú Hữu"
+    },
+    {
+      "id": 10532,
+      "name": "Phường Phước Bình"
+    },
+    {
+      "id": 10533,
+      "name": "Phường Phước Long A"
+    },
+    {
+      "id": 10534,
+      "name": "Phường Phước Long B"
+    },
+    {
+      "id": 10536,
+      "name": "Phường Tăng Nhơn Phú A"
+    },
+    {
+      "id": 10537,
+      "name": "Phường Tăng Nhơn Phú B"
+    },
+    {
+      "id": 10535,
+      "name": "Phường Tân Phú"
+    },
+    {
+      "id": 10538,
+      "name": "Phường Trường Thạnh"
+    }
+  ]
+}

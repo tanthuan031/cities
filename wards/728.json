@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 11437,
+      "name": "Phường Bình Thạnh"
+    },
+    {
+      "id": 11438,
+      "name": "Phường Thuận An"
+    },
+    {
+      "id": 11439,
+      "name": "Phường Trà Lồng"
+    },
+    {
+      "id": 11440,
+      "name": "Phường Vĩnh Tường"
+    },
+    {
+      "id": 11441,
+      "name": "Xã Long Bình"
+    },
+    {
+      "id": 11442,
+      "name": "Xã Long Phú"
+    },
+    {
+      "id": 11443,
+      "name": "Xã Long Trị"
+    },
+    {
+      "id": 11444,
+      "name": "Xã Long Trị A"
+    },
+    {
+      "id": 11445,
+      "name": "Xã Tân Phú"
+    }
+  ]
+}

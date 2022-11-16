@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 6003,
+      "name": "Thị trấn Cần Đước"
+    },
+    {
+      "id": 6004,
+      "name": "Xã Long Cang"
+    },
+    {
+      "id": 6005,
+      "name": "Xã Long Định"
+    },
+    {
+      "id": 6006,
+      "name": "Xã Long Hòa"
+    },
+    {
+      "id": 6007,
+      "name": "Xã Long Hựu Đông"
+    },
+    {
+      "id": 6008,
+      "name": "Xã Long Hựu Tây"
+    },
+    {
+      "id": 6009,
+      "name": "Xã Long Khê"
+    },
+    {
+      "id": 6010,
+      "name": "Xã Long Sơn"
+    },
+    {
+      "id": 6011,
+      "name": "Xã Long Trạch"
+    },
+    {
+      "id": 6012,
+      "name": "Xã Mỹ Lệ"
+    },
+    {
+      "id": 6013,
+      "name": "Xã Phước Đông"
+    },
+    {
+      "id": 6014,
+      "name": "Xã Phước Tuy"
+    },
+    {
+      "id": 6015,
+      "name": "Xã Phước Vân"
+    },
+    {
+      "id": 6016,
+      "name": "Xã Tân Ân"
+    },
+    {
+      "id": 6017,
+      "name": "Xã Tân Chánh"
+    },
+    {
+      "id": 6018,
+      "name": "Xã Tân Lân"
+    },
+    {
+      "id": 6019,
+      "name": "Xã Tân Trạch"
+    }
+  ]
+}

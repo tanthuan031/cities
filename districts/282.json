@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 100,
+      "name": "Huyện Lục Ngạn"
+    },
+    {
+      "id": 101,
+      "name": "Huyện Sơn Động"
+    },
+    {
+      "id": 102,
+      "name": "Huyện Hiệp Hòa"
+    },
+    {
+      "id": 93,
+      "name": "Thành phố Bắc Giang"
+    },
+    {
+      "id": 94,
+      "name": "Huyện Tân Yên"
+    },
+    {
+      "id": 95,
+      "name": "Huyện Việt Yên"
+    },
+    {
+      "id": 96,
+      "name": "Huyện Yên Dũng"
+    },
+    {
+      "id": 97,
+      "name": "Huyện Lạng Giang"
+    },
+    {
+      "id": 98,
+      "name": "Huyện Yên Thế"
+    },
+    {
+      "id": 99,
+      "name": "Huyện Lục Nam"
+    }
+  ]
+}

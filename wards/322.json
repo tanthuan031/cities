@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 3995,
+      "name": "Phường Bắc Hà"
+    },
+    {
+      "id": 3996,
+      "name": "Phường Đại Nài"
+    },
+    {
+      "id": 3997,
+      "name": "Phường Hà Huy Tập"
+    },
+    {
+      "id": 3998,
+      "name": "Phường Nam Hà"
+    },
+    {
+      "id": 3999,
+      "name": "Phường Nguyễn Du"
+    },
+    {
+      "id": 4000,
+      "name": "Phường Tân Giang"
+    },
+    {
+      "id": 4001,
+      "name": "Phường Thạch Linh"
+    },
+    {
+      "id": 4002,
+      "name": "Phường Thạch Quý"
+    },
+    {
+      "id": 4003,
+      "name": "Phường Trần Phú"
+    },
+    {
+      "id": 4004,
+      "name": "Phường Văn Yên"
+    },
+    {
+      "id": 4005,
+      "name": "Xã Thạch Bình"
+    },
+    {
+      "id": 4006,
+      "name": "Xã Thạch Đồng"
+    },
+    {
+      "id": 4007,
+      "name": "Xã Thạch Hạ"
+    },
+    {
+      "id": 4008,
+      "name": "Xã Thạch Hưng"
+    },
+    {
+      "id": 4009,
+      "name": "Xã Thạch Môn"
+    },
+    {
+      "id": 4010,
+      "name": "Xã Thạch Trung"
+    }
+  ]
+}

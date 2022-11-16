@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 648,
+      "name": "Thành phố Bạc Liêu"
+    },
+    {
+      "id": 649,
+      "name": "Huyện Vĩnh Lợi"
+    },
+    {
+      "id": 650,
+      "name": "Thị xã Giá Rai"
+    },
+    {
+      "id": 651,
+      "name": "Huyện Hồng Dân"
+    },
+    {
+      "id": 652,
+      "name": "Huyện Phước Long"
+    },
+    {
+      "id": 653,
+      "name": "Huyện Đông Hải"
+    },
+    {
+      "id": 654,
+      "name": "Huyện Hoà Bình"
+    }
+  ]
+}

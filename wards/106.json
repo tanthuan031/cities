@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 770,
+      "name": "Phường Châu Khê"
+    },
+    {
+      "id": 771,
+      "name": "Phường Đình Bảng"
+    },
+    {
+      "id": 772,
+      "name": "Phường Đồng Kỵ"
+    },
+    {
+      "id": 773,
+      "name": "Phường Đông Ngàn"
+    },
+    {
+      "id": 774,
+      "name": "Phường Đồng Nguyên"
+    },
+    {
+      "id": 775,
+      "name": "Phường Tân Hồng"
+    },
+    {
+      "id": 776,
+      "name": "Phường Trang Hạ"
+    },
+    {
+      "id": 769,
+      "name": "Xã Hương Mạc"
+    },
+    {
+      "id": 777,
+      "name": "Xã Phù Chẩn"
+    },
+    {
+      "id": 778,
+      "name": "Xã Phù Khê"
+    },
+    {
+      "id": 779,
+      "name": "Xã Tam Sơn"
+    },
+    {
+      "id": 780,
+      "name": "Xã Tương Giang"
+    }
+  ]
+}

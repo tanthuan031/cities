@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 5592,
+      "name": "Phường 1"
+    },
+    {
+      "id": 5593,
+      "name": "Phường 2"
+    },
+    {
+      "id": 5594,
+      "name": "Phường B'lao"
+    },
+    {
+      "id": 5595,
+      "name": "Phường Lộc Phát"
+    },
+    {
+      "id": 5596,
+      "name": "Phường Lộc Sơn"
+    },
+    {
+      "id": 5597,
+      "name": "Phường Lộc Tiến"
+    },
+    {
+      "id": 5587,
+      "name": "Xã Đại Lào"
+    },
+    {
+      "id": 5588,
+      "name": "Xã Đạm Bri"
+    },
+    {
+      "id": 5589,
+      "name": "Xã Lộc Châu"
+    },
+    {
+      "id": 5590,
+      "name": "Xã Lộc Nga"
+    },
+    {
+      "id": 5591,
+      "name": "Xã Lộc Thanh"
+    }
+  ]
+}

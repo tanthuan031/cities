@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 167,
+      "name": "Huyện Nho Quan"
+    },
+    {
+      "id": 168,
+      "name": "Huyện Hoa Lư"
+    },
+    {
+      "id": 169,
+      "name": "Huyện Gia Viễn"
+    },
+    {
+      "id": 170,
+      "name": "Huyện Kim Sơn"
+    },
+    {
+      "id": 171,
+      "name": "Huyện Yên Khánh"
+    },
+    {
+      "id": 172,
+      "name": "Thành phố Tam Điệp"
+    },
+    {
+      "id": 173,
+      "name": "Thành phố Ninh Bình"
+    },
+    {
+      "id": 174,
+      "name": "Huyện Yên Mô"
+    }
+  ]
+}

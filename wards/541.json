@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 2603,
+      "name": "Phường 1"
+    },
+    {
+      "id": 2604,
+      "name": "Phường 2"
+    },
+    {
+      "id": 2605,
+      "name": "Phường 3"
+    },
+    {
+      "id": 2606,
+      "name": "Phường 4"
+    },
+    {
+      "id": 2607,
+      "name": "Phường An Hoà"
+    },
+    {
+      "id": 2608,
+      "name": "Phường Tân Quy Đông"
+    },
+    {
+      "id": 2609,
+      "name": "Xã Tân Khánh Đông"
+    },
+    {
+      "id": 2610,
+      "name": "Xã Tân Phú Đông"
+    },
+    {
+      "id": 2611,
+      "name": "Xã Tân Quy Tây"
+    }
+  ]
+}

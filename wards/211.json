@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 4949,
+      "name": "Phường An Tảo"
+    },
+    {
+      "id": 4950,
+      "name": "Phường Hiến Nam"
+    },
+    {
+      "id": 4951,
+      "name": "Phường Hồng Châu"
+    },
+    {
+      "id": 4952,
+      "name": "Phường Lam Sơn"
+    },
+    {
+      "id": 4953,
+      "name": "Phường Lê Lợi"
+    },
+    {
+      "id": 4954,
+      "name": "Phường Minh Khai"
+    },
+    {
+      "id": 4955,
+      "name": "Phường Quang Trung"
+    },
+    {
+      "id": 4946,
+      "name": "Xã Bảo Khê"
+    },
+    {
+      "id": 11447,
+      "name": "Xã Hoàng Hanh"
+    },
+    {
+      "id": 4947,
+      "name": "Xã Hồng Nam"
+    },
+    {
+      "id": 11448,
+      "name": "Xã Hùng Cường"
+    },
+    {
+      "id": 4948,
+      "name": "Xã Liên Phương"
+    },
+    {
+      "id": 11449,
+      "name": "Xã Phú Cường"
+    },
+    {
+      "id": 11450,
+      "name": "Xã Phương Chiểu"
+    },
+    {
+      "id": 4956,
+      "name": "Xã Quảng Châu"
+    },
+    {
+      "id": 11451,
+      "name": "Xã Tân Hưng"
+    },
+    {
+      "id": 4957,
+      "name": "Xã Trung Nghĩa"
+    }
+  ]
+}

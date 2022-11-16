@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 8142,
+      "name": "Phường Đông Triều"
+    },
+    {
+      "id": 8147,
+      "name": "Phường Đức Chính"
+    },
+    {
+      "id": 8152,
+      "name": "Phường Hưng Đạo"
+    },
+    {
+      "id": 8153,
+      "name": "Phường Kim Sơn"
+    },
+    {
+      "id": 8143,
+      "name": "Phường Mạo Khê"
+    },
+    {
+      "id": 8160,
+      "name": "Phường Xuân Sơn"
+    },
+    {
+      "id": 8144,
+      "name": "Xã An Sinh"
+    },
+    {
+      "id": 8145,
+      "name": "Xã Bình Dương"
+    },
+    {
+      "id": 8146,
+      "name": "Xã Bình Khê"
+    },
+    {
+      "id": 8148,
+      "name": "Xã Hoàng Quế"
+    },
+    {
+      "id": 8149,
+      "name": "Xã Hồng Phong"
+    },
+    {
+      "id": 8150,
+      "name": "Xã Hồng Thái Đông"
+    },
+    {
+      "id": 8151,
+      "name": "Xã Hồng Thái Tây"
+    },
+    {
+      "id": 8154,
+      "name": "Xã Nguyễn Huệ"
+    },
+    {
+      "id": 8155,
+      "name": "Xã Tân Việt"
+    },
+    {
+      "id": 8156,
+      "name": "Xã Thủy An"
+    },
+    {
+      "id": 8157,
+      "name": "Xã Tràng An"
+    },
+    {
+      "id": 8158,
+      "name": "Xã Tràng Lương"
+    },
+    {
+      "id": 8159,
+      "name": "Xã Việt Dân"
+    },
+    {
+      "id": 8161,
+      "name": "Xã Yên Đức"
+    },
+    {
+      "id": 8162,
+      "name": "Xã Yên Thọ"
+    }
+  ]
+}

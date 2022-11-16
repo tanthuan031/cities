@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 10500,
+      "name": "Phường Bình Thuận"
+    },
+    {
+      "id": 10501,
+      "name": "Phường Phú Mỹ"
+    },
+    {
+      "id": 10502,
+      "name": "Phường Phú Thuận"
+    },
+    {
+      "id": 10503,
+      "name": "Phường Tân Hưng"
+    },
+    {
+      "id": 10504,
+      "name": "Phường Tân Kiểng"
+    },
+    {
+      "id": 10505,
+      "name": "Phường Tân Phong"
+    },
+    {
+      "id": 10506,
+      "name": "Phường Tân Phú"
+    },
+    {
+      "id": 10507,
+      "name": "Phường Tân Quy"
+    },
+    {
+      "id": 10508,
+      "name": "Phường Tân Thuận Đông"
+    },
+    {
+      "id": 10509,
+      "name": "Phường Tân Thuận Tây"
+    }
+  ]
+}

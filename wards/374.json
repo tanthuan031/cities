@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1896,
+      "name": "Phường An Hải Bắc"
+    },
+    {
+      "id": 1897,
+      "name": "Phường An Hải Đông"
+    },
+    {
+      "id": 1898,
+      "name": "Phường An Hải Tây"
+    },
+    {
+      "id": 1899,
+      "name": "Phường Mân Thái"
+    },
+    {
+      "id": 1900,
+      "name": "Phường Nại Hiên Đông"
+    },
+    {
+      "id": 1901,
+      "name": "Phường Phước Mỹ"
+    },
+    {
+      "id": 1902,
+      "name": "Phường Thọ Quang"
+    }
+  ]
+}

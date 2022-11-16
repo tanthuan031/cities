@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 331,
+      "name": "Thị trấn Nà Phặc"
+    },
+    {
+      "id": 332,
+      "name": "Xã Bằng Vân"
+    },
+    {
+      "id": 333,
+      "name": "Xã Cốc Đán"
+    },
+    {
+      "id": 334,
+      "name": "Xã Đức Vân"
+    },
+    {
+      "id": 335,
+      "name": "Xã Hương Nê"
+    },
+    {
+      "id": 336,
+      "name": "Xã Lãng Ngâm"
+    },
+    {
+      "id": 337,
+      "name": "Xã Thuần Mang"
+    },
+    {
+      "id": 338,
+      "name": "Xã Thượng Ân"
+    },
+    {
+      "id": 339,
+      "name": "Xã Thượng Quan"
+    },
+    {
+      "id": 340,
+      "name": "Xã Trung Hoà"
+    },
+    {
+      "id": 341,
+      "name": "Xã Vân Tùng"
+    }
+  ]
+}

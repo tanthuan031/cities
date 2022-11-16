@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Thị trấn An Phú"
+    },
+    {
+      "id": 2,
+      "name": "Thị Trấn Long Bình"
+    },
+    {
+      "id": 3,
+      "name": "Xã Đa Phước"
+    },
+    {
+      "id": 4,
+      "name": "Xã Khánh An"
+    },
+    {
+      "id": 5,
+      "name": "Xã Khánh Bình"
+    },
+    {
+      "id": 6,
+      "name": "Xã Nhơn Hội"
+    },
+    {
+      "id": 7,
+      "name": "Xã Phú Hội"
+    },
+    {
+      "id": 8,
+      "name": "Xã Phú Hữu"
+    },
+    {
+      "id": 9,
+      "name": "Xã Phước Hưng"
+    },
+    {
+      "id": 10,
+      "name": "Xã Quốc Thái"
+    },
+    {
+      "id": 11,
+      "name": "Xã Vĩnh Hậu"
+    },
+    {
+      "id": 12,
+      "name": "Xã Vĩnh Hội Đông"
+    },
+    {
+      "id": 13,
+      "name": "Xã Vĩnh Lộc"
+    },
+    {
+      "id": 14,
+      "name": "Xã Vĩnh Trường"
+    }
+  ]
+}

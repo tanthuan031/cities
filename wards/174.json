@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 7001,
+      "name": "Thị trấn Yên Thịnh"
+    },
+    {
+      "id": 7002,
+      "name": "Xã Khánh Dương"
+    },
+    {
+      "id": 7003,
+      "name": "Xã Khánh Thịnh"
+    },
+    {
+      "id": 7004,
+      "name": "Xã Khánh Thượng"
+    },
+    {
+      "id": 7005,
+      "name": "Xã Mai Sơn"
+    },
+    {
+      "id": 7006,
+      "name": "Xã Yên Đồng"
+    },
+    {
+      "id": 7007,
+      "name": "Xã Yên Hòa"
+    },
+    {
+      "id": 7008,
+      "name": "Xã Yên Hưng"
+    },
+    {
+      "id": 7009,
+      "name": "Xã Yên Lâm"
+    },
+    {
+      "id": 7010,
+      "name": "Xã Yên Mạc"
+    },
+    {
+      "id": 7011,
+      "name": "Xã Yên Mỹ"
+    },
+    {
+      "id": 7012,
+      "name": "Xã Yên Nhân"
+    },
+    {
+      "id": 7013,
+      "name": "Xã Yên Phong"
+    },
+    {
+      "id": 7015,
+      "name": "Xã Yên Thái"
+    },
+    {
+      "id": 7017,
+      "name": "Xã Yên Thành"
+    },
+    {
+      "id": 7016,
+      "name": "Xã Yên Thắng"
+    },
+    {
+      "id": 7018,
+      "name": "Xã Yên Từ"
+    }
+  ]
+}

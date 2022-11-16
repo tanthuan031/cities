@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 3619,
+      "name": "Phường Biên Giang"
+    },
+    {
+      "id": 3621,
+      "name": "Phường Dương Nội"
+    },
+    {
+      "id": 3620,
+      "name": "Phường Đồng Mai"
+    },
+    {
+      "id": 3623,
+      "name": "Phường Hà Cầu"
+    },
+    {
+      "id": 3622,
+      "name": "Phường Kiến Hưng"
+    },
+    {
+      "id": 3624,
+      "name": "Phường La Khê"
+    },
+    {
+      "id": 3625,
+      "name": "Phường Mộ Lao"
+    },
+    {
+      "id": 3626,
+      "name": "Phường Nguyễn Trãi"
+    },
+    {
+      "id": 3627,
+      "name": "Phường Phú La"
+    },
+    {
+      "id": 3633,
+      "name": "Phường Phú Lãm"
+    },
+    {
+      "id": 3634,
+      "name": "Phường Phú Lương"
+    },
+    {
+      "id": 3628,
+      "name": "Phường Phúc La"
+    },
+    {
+      "id": 3629,
+      "name": "Phường Quang Trung"
+    },
+    {
+      "id": 3630,
+      "name": "Phường Vạn Phúc"
+    },
+    {
+      "id": 3631,
+      "name": "Phường Văn Quán"
+    },
+    {
+      "id": 3635,
+      "name": "Phường Yên Nghĩa"
+    },
+    {
+      "id": 3632,
+      "name": "Phường Yết Kiêu"
+    }
+  ]
+}

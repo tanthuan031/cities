@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 551,
+      "name": "Huyện Mang Thít"
+    },
+    {
+      "id": 552,
+      "name": "Huyện Vũng Liêm"
+    },
+    {
+      "id": 553,
+      "name": "Thị xã Bình Minh"
+    },
+    {
+      "id": 554,
+      "name": "Huyện Tam Bình"
+    },
+    {
+      "id": 555,
+      "name": "Huyện Long Hồ"
+    },
+    {
+      "id": 556,
+      "name": "Thành phố Vĩnh Long"
+    },
+    {
+      "id": 557,
+      "name": "Huyện Bình Tân"
+    },
+    {
+      "id": 558,
+      "name": "Huyện Trà Ôn"
+    }
+  ]
+}

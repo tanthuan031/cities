@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 342,
+      "name": "Xã An Thắng"
+    },
+    {
+      "id": 343,
+      "name": "Xã Bằng Thành"
+    },
+    {
+      "id": 344,
+      "name": "Xã Bộc Bố"
+    },
+    {
+      "id": 345,
+      "name": "Xã Cao Tân"
+    },
+    {
+      "id": 346,
+      "name": "Xã Cổ Linh"
+    },
+    {
+      "id": 347,
+      "name": "Xã Công Bằng"
+    },
+    {
+      "id": 348,
+      "name": "Xã Giáo Hiệu"
+    },
+    {
+      "id": 349,
+      "name": "Xã Nghiên Loan"
+    },
+    {
+      "id": 350,
+      "name": "Xã Nhạn Môn"
+    },
+    {
+      "id": 351,
+      "name": "Xã Xuân La"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 371,
+      "name": "Huyện Hoàng Sa"
+    },
+    {
+      "id": 372,
+      "name": "Quận Thanh Khê"
+    },
+    {
+      "id": 373,
+      "name": "Huyện Hòa Vang"
+    },
+    {
+      "id": 374,
+      "name": "Quận Sơn Trà"
+    },
+    {
+      "id": 375,
+      "name": "Quận Liên Chiểu"
+    },
+    {
+      "id": 376,
+      "name": "Quận Hải Châu"
+    },
+    {
+      "id": 377,
+      "name": "Quận Cẩm Lệ"
+    },
+    {
+      "id": 378,
+      "name": "Quận Ngũ Hành Sơn"
+    }
+  ]
+}

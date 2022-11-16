@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 4569,
+      "name": "Phường I"
+    },
+    {
+      "id": 4570,
+      "name": "Phường III"
+    },
+    {
+      "id": 4571,
+      "name": "Phường IV"
+    },
+    {
+      "id": 4572,
+      "name": "Phường V"
+    },
+    {
+      "id": 4573,
+      "name": "Phường VII"
+    },
+    {
+      "id": 4567,
+      "name": "Xã Hoả Lựu"
+    },
+    {
+      "id": 4568,
+      "name": "Xã Hoả Tiến"
+    },
+    {
+      "id": 4574,
+      "name": "Xã Tân Tiến"
+    },
+    {
+      "id": 4575,
+      "name": "Xã Vị Tân"
+    }
+  ]
+}

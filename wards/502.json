@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 10626,
+      "name": "Phường Bình Chiểu"
+    },
+    {
+      "id": 10627,
+      "name": "Phường Bình Thọ"
+    },
+    {
+      "id": 10628,
+      "name": "Phường Hiệp Bình Chánh"
+    },
+    {
+      "id": 10629,
+      "name": "Phường Hiệp Bình Phước"
+    },
+    {
+      "id": 10630,
+      "name": "Phường Linh Chiểu"
+    },
+    {
+      "id": 10631,
+      "name": "Phường Linh Đông"
+    },
+    {
+      "id": 10632,
+      "name": "Phường Linh Tây"
+    },
+    {
+      "id": 10633,
+      "name": "Phường Linh Trung"
+    },
+    {
+      "id": 10634,
+      "name": "Phường Linh Xuân"
+    },
+    {
+      "id": 10635,
+      "name": "Phường Tam Bình"
+    },
+    {
+      "id": 10636,
+      "name": "Phường Tam Phú"
+    },
+    {
+      "id": 10637,
+      "name": "Phường Trường Thọ"
+    }
+  ]
+}

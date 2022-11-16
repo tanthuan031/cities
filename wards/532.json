@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 8798,
+      "name": "Thị trấn Bến Cầu"
+    },
+    {
+      "id": 8799,
+      "name": "Xã An Thạnh"
+    },
+    {
+      "id": 8801,
+      "name": "Xã Long Chữ"
+    },
+    {
+      "id": 8802,
+      "name": "Xã Long Giang"
+    },
+    {
+      "id": 8803,
+      "name": "Xã Long Khánh"
+    },
+    {
+      "id": 8804,
+      "name": "Xã Long Phước"
+    },
+    {
+      "id": 8805,
+      "name": "Xã Long Thuận"
+    },
+    {
+      "id": 8800,
+      "name": "Xã Lợi Thuận"
+    },
+    {
+      "id": 8806,
+      "name": "Xã Tiên Thuận"
+    }
+  ]
+}

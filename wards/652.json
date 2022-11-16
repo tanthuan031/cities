@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 629,
+      "name": "Thị trấn Phước Long"
+    },
+    {
+      "id": 630,
+      "name": "Xã Hưng Phú"
+    },
+    {
+      "id": 631,
+      "name": "Xã Phong Thạnh Tây A"
+    },
+    {
+      "id": 632,
+      "name": "Xã Phong Thạnh Tây B"
+    },
+    {
+      "id": 633,
+      "name": "Xã Phước Long"
+    },
+    {
+      "id": 634,
+      "name": "Xã Vĩnh Phú Đông"
+    },
+    {
+      "id": 635,
+      "name": "Xã Vĩnh Phú Tây"
+    },
+    {
+      "id": 636,
+      "name": "Xã Vĩnh Thanh"
+    }
+  ]
+}

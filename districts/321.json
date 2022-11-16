@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 429,
+      "name": "Thành phố Cam Ranh"
+    },
+    {
+      "id": 430,
+      "name": "Huyện Trường Sa"
+    },
+    {
+      "id": 431,
+      "name": "Thị xã Ninh Hòa"
+    },
+    {
+      "id": 432,
+      "name": "Huyện Khánh Sơn"
+    },
+    {
+      "id": 433,
+      "name": "Huyện Khánh Vĩnh"
+    },
+    {
+      "id": 434,
+      "name": "Huyện Diên Khánh"
+    },
+    {
+      "id": 435,
+      "name": "Huyện Vạn Ninh"
+    },
+    {
+      "id": 436,
+      "name": "Huyện Cam Lâm"
+    },
+    {
+      "id": 437,
+      "name": "Thành phố Nha Trang"
+    }
+  ]
+}

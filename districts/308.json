@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 420,
+      "name": "Huyện Sông Hinh"
+    },
+    {
+      "id": 421,
+      "name": "Huyện Tây Hoà"
+    },
+    {
+      "id": 422,
+      "name": "Huyện Tuy An"
+    },
+    {
+      "id": 423,
+      "name": "Thị xã Sông Cầu"
+    },
+    {
+      "id": 424,
+      "name": "Huyện Đồng Xuân"
+    },
+    {
+      "id": 425,
+      "name": "Huyện Sơn Hòa"
+    },
+    {
+      "id": 426,
+      "name": "Thành phố Tuy Hoà"
+    },
+    {
+      "id": 427,
+      "name": "Huyện Phú Hoà"
+    },
+    {
+      "id": 428,
+      "name": "Huyện Đông Hòa"
+    }
+  ]
+}

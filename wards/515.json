@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 172,
+      "name": "Thị trấn Đất Đỏ"
+    },
+    {
+      "id": 173,
+      "name": "Thị trấn Phước Hải"
+    },
+    {
+      "id": 174,
+      "name": "Xã Láng Dài"
+    },
+    {
+      "id": 176,
+      "name": "Xã Long Mỹ"
+    },
+    {
+      "id": 177,
+      "name": "Xã Long Tân"
+    },
+    {
+      "id": 175,
+      "name": "Xã Lộc An"
+    },
+    {
+      "id": 178,
+      "name": "Xã Phước Hội"
+    },
+    {
+      "id": 179,
+      "name": "Xã Phước Long Thọ"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 10310,
+      "name": "Phường 1"
+    },
+    {
+      "id": 10311,
+      "name": "Phường 2"
+    },
+    {
+      "id": 10312,
+      "name": "Phường 3"
+    },
+    {
+      "id": 10313,
+      "name": "Phường 4"
+    },
+    {
+      "id": 10314,
+      "name": "Phường 5"
+    },
+    {
+      "id": 10304,
+      "name": "Xã Bình Đông"
+    },
+    {
+      "id": 10305,
+      "name": "Xã Bình Xuân"
+    },
+    {
+      "id": 10306,
+      "name": "Xã Long Chánh"
+    },
+    {
+      "id": 10307,
+      "name": "Xã Long Hòa"
+    },
+    {
+      "id": 10308,
+      "name": "Xã Long Hưng"
+    },
+    {
+      "id": 10309,
+      "name": "Xã Long Thuận"
+    },
+    {
+      "id": 10315,
+      "name": "Xã Tân Trung"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 122,
+      "name": "Huyện Hạ Lang"
+    },
+    {
+      "id": 123,
+      "name": "Huyện Phục Hoà"
+    },
+    {
+      "id": 124,
+      "name": "Huyện Trùng Khánh"
+    },
+    {
+      "id": 125,
+      "name": "Huyện Trà Lĩnh"
+    },
+    {
+      "id": 126,
+      "name": "Huyện Bảo Lâm"
+    },
+    {
+      "id": 127,
+      "name": "Huyện Bảo Lạc"
+    },
+    {
+      "id": 128,
+      "name": "Huyện Hà Quảng"
+    },
+    {
+      "id": 129,
+      "name": "Huyện Quảng Uyên"
+    },
+    {
+      "id": 130,
+      "name": "Huyện Thông Nông"
+    },
+    {
+      "id": 131,
+      "name": "Huyện Thạch An"
+    },
+    {
+      "id": 132,
+      "name": "Huyện Nguyên Bình"
+    },
+    {
+      "id": 133,
+      "name": "Huyện Hoà An"
+    },
+    {
+      "id": 134,
+      "name": "Thành phố Cao Bằng"
+    }
+  ]
+}

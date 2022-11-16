@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 2585,
+      "name": "Phường 1"
+    },
+    {
+      "id": 2586,
+      "name": "Phường 11"
+    },
+    {
+      "id": 2587,
+      "name": "Phường 2"
+    },
+    {
+      "id": 2588,
+      "name": "Phường 3"
+    },
+    {
+      "id": 2589,
+      "name": "Phường 4"
+    },
+    {
+      "id": 2590,
+      "name": "Phường 6"
+    },
+    {
+      "id": 2591,
+      "name": "Phường Hoà Thuận"
+    },
+    {
+      "id": 2592,
+      "name": "Phường Mỹ Phú"
+    },
+    {
+      "id": 2581,
+      "name": "Xã Hòa An"
+    },
+    {
+      "id": 2582,
+      "name": "Xã Mỹ Ngãi"
+    },
+    {
+      "id": 2583,
+      "name": "Xã Mỹ Tân"
+    },
+    {
+      "id": 2584,
+      "name": "Xã Mỹ Trà"
+    },
+    {
+      "id": 2593,
+      "name": "Xã Tân Thuận Đông"
+    },
+    {
+      "id": 2594,
+      "name": "Xã Tân Thuận Tây"
+    },
+    {
+      "id": 2595,
+      "name": "Xã Tịnh Thới"
+    }
+  ]
+}

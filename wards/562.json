@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1618,
+      "name": "Phường Ba Láng"
+    },
+    {
+      "id": 1619,
+      "name": "Phường Hưng Phú"
+    },
+    {
+      "id": 1620,
+      "name": "Phường Hưng Thạnh"
+    },
+    {
+      "id": 1621,
+      "name": "Phường Lê Bình"
+    },
+    {
+      "id": 1622,
+      "name": "Phường Phú Thứ"
+    },
+    {
+      "id": 1623,
+      "name": "Phường Tân Phú"
+    },
+    {
+      "id": 1624,
+      "name": "Phường Thường Thạnh"
+    }
+  ]
+}

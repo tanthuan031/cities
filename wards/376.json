@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 1872,
+      "name": "Phường Bình Hiên"
+    },
+    {
+      "id": 1873,
+      "name": "Phường Bình Thuận"
+    },
+    {
+      "id": 1874,
+      "name": "Phường Hải Châu I"
+    },
+    {
+      "id": 1875,
+      "name": "Phường Hải Châu II"
+    },
+    {
+      "id": 1877,
+      "name": "Phường Hòa Cường Bắc"
+    },
+    {
+      "id": 1878,
+      "name": "Phường Hòa Cường Nam"
+    },
+    {
+      "id": 1880,
+      "name": "Phường Hòa Thuận Đông"
+    },
+    {
+      "id": 1881,
+      "name": "Phường Hòa Thuận Tây"
+    },
+    {
+      "id": 1882,
+      "name": "Phường Nam Dương"
+    },
+    {
+      "id": 1883,
+      "name": "Phường Phước Ninh"
+    },
+    {
+      "id": 1884,
+      "name": "Phường Thạch Thang"
+    },
+    {
+      "id": 1885,
+      "name": "Phường Thanh Bình"
+    },
+    {
+      "id": 1886,
+      "name": "Phường Thuận Phước"
+    }
+  ]
+}

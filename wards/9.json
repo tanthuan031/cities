@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 3721,
+      "name": "Phường Bưởi"
+    },
+    {
+      "id": 3722,
+      "name": "Phường Nhật Tân"
+    },
+    {
+      "id": 3723,
+      "name": "Phường Phú Thượng"
+    },
+    {
+      "id": 3724,
+      "name": "Phường Quảng An"
+    },
+    {
+      "id": 3725,
+      "name": "Phường Thụy Khuê"
+    },
+    {
+      "id": 3726,
+      "name": "Phường Tứ Liên"
+    },
+    {
+      "id": 3727,
+      "name": "Phường Xuân La"
+    },
+    {
+      "id": 3728,
+      "name": "Phường Yên Phụ"
+    }
+  ]
+}

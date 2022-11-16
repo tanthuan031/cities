@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1610,
+      "name": "Phường An Thới"
+    },
+    {
+      "id": 1611,
+      "name": "Phường Bình Thủy"
+    },
+    {
+      "id": 1612,
+      "name": "Phường Bùi Hữu Nghĩa"
+    },
+    {
+      "id": 1613,
+      "name": "Phường Long Hòa"
+    },
+    {
+      "id": 1614,
+      "name": "Phường Long Tuyền"
+    },
+    {
+      "id": 1615,
+      "name": "Phường Thới An Đông"
+    },
+    {
+      "id": 1616,
+      "name": "Phường Trà An"
+    },
+    {
+      "id": 1617,
+      "name": "Phường Trà Nóc"
+    }
+  ]
+}

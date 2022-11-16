@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 190,
+      "name": "Huyện Nam Sách"
+    },
+    {
+      "id": 191,
+      "name": "Thành phố Hải Dương"
+    },
+    {
+      "id": 192,
+      "name": "Huyện Ninh Giang"
+    },
+    {
+      "id": 193,
+      "name": "Huyện Bình Giang"
+    },
+    {
+      "id": 194,
+      "name": "Huyện Tứ Kỳ"
+    },
+    {
+      "id": 195,
+      "name": "Huyện Kim Thành"
+    },
+    {
+      "id": 196,
+      "name": "Thị xã Chí Linh"
+    },
+    {
+      "id": 197,
+      "name": "Huyện Thanh Miện"
+    },
+    {
+      "id": 198,
+      "name": "Huyện Cẩm Giàng"
+    },
+    {
+      "id": 199,
+      "name": "Huyện Gia Lộc"
+    },
+    {
+      "id": 200,
+      "name": "Huyện Kinh Môn"
+    },
+    {
+      "id": 201,
+      "name": "Huyện Thanh Hà"
+    }
+  ]
+}

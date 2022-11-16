@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 704,
+      "name": "Huyện Tân Uyên"
+    },
+    {
+      "id": 705,
+      "name": "Huyện Nậm Nhùn"
+    },
+    {
+      "id": 78,
+      "name": "Huyện Sìn Hồ"
+    },
+    {
+      "id": 79,
+      "name": "Huyện Mường Tè"
+    },
+    {
+      "id": 80,
+      "name": "Huyện Tam Đường"
+    },
+    {
+      "id": 81,
+      "name": "Thành phố Lai Châu"
+    },
+    {
+      "id": 82,
+      "name": "Huyện Phong Thổ"
+    },
+    {
+      "id": 83,
+      "name": "Huyện Than Uyên"
+    }
+  ]
+}

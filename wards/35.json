@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 3023,
+      "name": "Phường Minh Khai"
+    },
+    {
+      "id": 3024,
+      "name": "Phường Ngọc Hà"
+    },
+    {
+      "id": 3025,
+      "name": "Phường Nguyễn Trãi"
+    },
+    {
+      "id": 3026,
+      "name": "Phường Quang Trung"
+    },
+    {
+      "id": 3027,
+      "name": "Phường Trần Phú"
+    },
+    {
+      "id": 3022,
+      "name": "Xã Ngọc Đường"
+    },
+    {
+      "id": 3028,
+      "name": "Xã Phương Độ"
+    },
+    {
+      "id": 3029,
+      "name": "Xã Phương Thiện"
+    }
+  ]
+}

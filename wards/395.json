@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 8447,
+      "name": "Phường 1"
+    },
+    {
+      "id": 8448,
+      "name": "Phường 2"
+    },
+    {
+      "id": 8449,
+      "name": "Phường 3"
+    },
+    {
+      "id": 8450,
+      "name": "Phường 4"
+    },
+    {
+      "id": 8451,
+      "name": "Phường 5"
+    },
+    {
+      "id": 8452,
+      "name": "Phường Đông Giang"
+    },
+    {
+      "id": 8453,
+      "name": "Phường Đông Lễ"
+    },
+    {
+      "id": 8454,
+      "name": "Phường Đông Lương"
+    },
+    {
+      "id": 8455,
+      "name": "Phường Đông Thanh"
+    }
+  ]
+}

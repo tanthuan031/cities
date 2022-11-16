@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 10291,
+      "name": "Phường 1"
+    },
+    {
+      "id": 10292,
+      "name": "Phường 10"
+    },
+    {
+      "id": 10293,
+      "name": "Phường 2"
+    },
+    {
+      "id": 10294,
+      "name": "Phường 3"
+    },
+    {
+      "id": 10295,
+      "name": "Phường 4"
+    },
+    {
+      "id": 10296,
+      "name": "Phường 5"
+    },
+    {
+      "id": 10297,
+      "name": "Phường 6"
+    },
+    {
+      "id": 10298,
+      "name": "Phường 7"
+    },
+    {
+      "id": 10299,
+      "name": "Phường 8"
+    },
+    {
+      "id": 10300,
+      "name": "Phường 9"
+    },
+    {
+      "id": 10301,
+      "name": "Phường Tân Long"
+    },
+    {
+      "id": 10289,
+      "name": "Xã Đạo Thạnh"
+    },
+    {
+      "id": 10290,
+      "name": "Xã Mỹ Phong"
+    },
+    {
+      "id": 11558,
+      "name": "Xã Phước Thạnh"
+    },
+    {
+      "id": 10302,
+      "name": "Xã Tân Mỹ Chánh"
+    },
+    {
+      "id": 11559,
+      "name": "Xã Thới Sơn"
+    },
+    {
+      "id": 10303,
+      "name": "Xã Trung An"
+    }
+  ]
+}

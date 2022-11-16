@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 931,
+      "name": "Phường 1"
+    },
+    {
+      "id": 932,
+      "name": "Phường 2"
+    },
+    {
+      "id": 933,
+      "name": "Phường 3"
+    },
+    {
+      "id": 934,
+      "name": "Phường 4"
+    },
+    {
+      "id": 935,
+      "name": "Phường 5"
+    },
+    {
+      "id": 936,
+      "name": "Phường 6"
+    },
+    {
+      "id": 937,
+      "name": "Phường 7"
+    },
+    {
+      "id": 938,
+      "name": "Phường 8"
+    },
+    {
+      "id": 939,
+      "name": "Phường Phú Khương"
+    },
+    {
+      "id": 940,
+      "name": "Phường Phú Tân"
+    },
+    {
+      "id": 928,
+      "name": "Xã Bình Phú"
+    },
+    {
+      "id": 11352,
+      "name": "Xã Mỹ Thành"
+    },
+    {
+      "id": 929,
+      "name": "Xã Mỹ Thạnh An"
+    },
+    {
+      "id": 930,
+      "name": "Xã Nhơn Thạnh"
+    },
+    {
+      "id": 941,
+      "name": "Xã Phú Hưng"
+    },
+    {
+      "id": 942,
+      "name": "Xã Phú Nhuận"
+    },
+    {
+      "id": 943,
+      "name": "Xã Sơn Đông"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 612,
+      "name": "Thị trấn Hòa Bình"
+    },
+    {
+      "id": 613,
+      "name": "Xã Minh Diệu"
+    },
+    {
+      "id": 614,
+      "name": "Xã Vĩnh Bình"
+    },
+    {
+      "id": 615,
+      "name": "Xã Vĩnh Hậu"
+    },
+    {
+      "id": 616,
+      "name": "Xã Vĩnh Hậu A"
+    },
+    {
+      "id": 617,
+      "name": "Xã Vĩnh Mỹ A"
+    },
+    {
+      "id": 618,
+      "name": "Xã Vĩnh Mỹ B"
+    },
+    {
+      "id": 619,
+      "name": "Xã Vĩnh Thịnh"
+    }
+  ]
+}

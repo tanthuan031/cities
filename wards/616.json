@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 15,
+      "name": "Thị trấn Cái Dầu"
+    },
+    {
+      "id": 16,
+      "name": "Xã Bình Chánh"
+    },
+    {
+      "id": 17,
+      "name": "Xã Bình Long"
+    },
+    {
+      "id": 18,
+      "name": "Xã Bình Mỹ"
+    },
+    {
+      "id": 19,
+      "name": "Xã Bình Phú"
+    },
+    {
+      "id": 20,
+      "name": "Xã Bình Thủy"
+    },
+    {
+      "id": 21,
+      "name": "Xã Đào Hữu Cảnh"
+    },
+    {
+      "id": 22,
+      "name": "Xã Khánh Hòa"
+    },
+    {
+      "id": 23,
+      "name": "Xã Mỹ Đức"
+    },
+    {
+      "id": 24,
+      "name": "Xã Mỹ Phú"
+    },
+    {
+      "id": 25,
+      "name": "Xã Ô Long Vỹ"
+    },
+    {
+      "id": 26,
+      "name": "Xã Thạnh Mỹ Tây"
+    },
+    {
+      "id": 27,
+      "name": "Xã Vĩnh Thạnh Trung"
+    }
+  ]
+}

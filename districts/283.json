@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 103,
+      "name": "Huyện Gia Bình"
+    },
+    {
+      "id": 104,
+      "name": "Huyện Quế Võ"
+    },
+    {
+      "id": 105,
+      "name": "Huyện Tiên Du"
+    },
+    {
+      "id": 106,
+      "name": "Thị xã Từ Sơn"
+    },
+    {
+      "id": 107,
+      "name": "Huyện Lương Tài"
+    },
+    {
+      "id": 108,
+      "name": "Huyện Yên Phong"
+    },
+    {
+      "id": 109,
+      "name": "Huyện Thuận Thành"
+    },
+    {
+      "id": 110,
+      "name": "Thành phố Bắc Ninh"
+    }
+  ]
+}

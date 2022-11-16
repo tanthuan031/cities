@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 3051,
+      "name": "Thị trấn Đồng Văn"
+    },
+    {
+      "id": 3052,
+      "name": "Thị trấn Hòa Mạc"
+    },
+    {
+      "id": 3053,
+      "name": "Xã Bạch Thượng"
+    },
+    {
+      "id": 3054,
+      "name": "Xã Châu Giang"
+    },
+    {
+      "id": 3055,
+      "name": "Xã Châu Sơn"
+    },
+    {
+      "id": 3056,
+      "name": "Xã Chuyên Ngoại"
+    },
+    {
+      "id": 3058,
+      "name": "Xã Duy Hải"
+    },
+    {
+      "id": 3059,
+      "name": "Xã Duy Minh"
+    },
+    {
+      "id": 3057,
+      "name": "Xã Đọi Sơn"
+    },
+    {
+      "id": 3060,
+      "name": "Xã Hoàng Đông"
+    },
+    {
+      "id": 3061,
+      "name": "Xã Mộc Bắc"
+    },
+    {
+      "id": 3062,
+      "name": "Xã Mộc Nam"
+    },
+    {
+      "id": 3065,
+      "name": "Xã Tiên Ngoại"
+    },
+    {
+      "id": 3066,
+      "name": "Xã Tiên Nội"
+    },
+    {
+      "id": 3067,
+      "name": "Xã Tiền Phong"
+    },
+    {
+      "id": 3069,
+      "name": "Xã Trác Văn"
+    },
+    {
+      "id": 3070,
+      "name": "Xã Yên Bắc"
+    },
+    {
+      "id": 3071,
+      "name": "Xã Yên Nam"
+    }
+  ]
+}

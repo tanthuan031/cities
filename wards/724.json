@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 3702,
+      "name": "Phường Cầu Diễn"
+    },
+    {
+      "id": 3706,
+      "name": "Phường Đại Mỗ"
+    },
+    {
+      "id": 3719,
+      "name": "Phường Mễ Trì"
+    },
+    {
+      "id": 3708,
+      "name": "Phường Mỹ Đình 1"
+    },
+    {
+      "id": 3709,
+      "name": "Phường Mỹ Đình 2"
+    },
+    {
+      "id": 3704,
+      "name": "Phường Phú Đô"
+    },
+    {
+      "id": 3717,
+      "name": "Phường Phương Canh"
+    },
+    {
+      "id": 3705,
+      "name": "Phường Tây Mỗ"
+    },
+    {
+      "id": 3715,
+      "name": "Phường Trung Văn"
+    },
+    {
+      "id": 3714,
+      "name": "Phường Xuân Phương"
+    }
+  ]
+}

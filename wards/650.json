@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 11349,
+      "name": "Phường 1"
+    },
+    {
+      "id": 603,
+      "name": "Phường Hộ Phòng"
+    },
+    {
+      "id": 11350,
+      "name": "Phường Láng Tròn"
+    },
+    {
+      "id": 604,
+      "name": "Xã Phong Tân"
+    },
+    {
+      "id": 605,
+      "name": "Xã Phong Thạnh"
+    },
+    {
+      "id": 606,
+      "name": "Xã Phong Thạnh A"
+    },
+    {
+      "id": 607,
+      "name": "Xã Phong Thạnh Đông"
+    },
+    {
+      "id": 609,
+      "name": "Xã Phong Thạnh Tây"
+    },
+    {
+      "id": 610,
+      "name": "Xã Tân Phong"
+    },
+    {
+      "id": 611,
+      "name": "Xã Tân Thạnh"
+    }
+  ]
+}

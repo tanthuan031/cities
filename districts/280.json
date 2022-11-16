@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 508,
+      "name": "Huyện Xuyên Mộc"
+    },
+    {
+      "id": 509,
+      "name": "Huyện Côn Đảo"
+    },
+    {
+      "id": 510,
+      "name": "Huyện Long Điền"
+    },
+    {
+      "id": 511,
+      "name": "Huyện Châu Đức"
+    },
+    {
+      "id": 512,
+      "name": "Thành phố Vũng Tàu"
+    },
+    {
+      "id": 513,
+      "name": "Thị xã Phú Mỹ"
+    },
+    {
+      "id": 514,
+      "name": "Thành phố Bà Rịa"
+    },
+    {
+      "id": 515,
+      "name": "Huyện Đất Đỏ"
+    }
+  ]
+}

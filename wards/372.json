@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1903,
+      "name": "Phường An Khê"
+    },
+    {
+      "id": 1904,
+      "name": "Phường Chính Gián"
+    },
+    {
+      "id": 1905,
+      "name": "Phường Hòa Khê"
+    },
+    {
+      "id": 1906,
+      "name": "Phường Tam Thuận"
+    },
+    {
+      "id": 1907,
+      "name": "Phường Tân Chính"
+    },
+    {
+      "id": 1908,
+      "name": "Phường Thạc Gián"
+    },
+    {
+      "id": 1909,
+      "name": "Phường Thanh Khê Đông"
+    },
+    {
+      "id": 1910,
+      "name": "Phường Thanh Khê Tây"
+    },
+    {
+      "id": 1911,
+      "name": "Phường Vĩnh Trung"
+    },
+    {
+      "id": 1912,
+      "name": "Phường Xuân Hà"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 3586,
+      "name": "Phường Cổ Nhuế 1"
+    },
+    {
+      "id": 3587,
+      "name": "Phường Cổ Nhuế 2"
+    },
+    {
+      "id": 3581,
+      "name": "Phường Đông Ngạc"
+    },
+    {
+      "id": 3578,
+      "name": "Phường Đức Thắng"
+    },
+    {
+      "id": 3584,
+      "name": "Phường Liên Mạc"
+    },
+    {
+      "id": 3582,
+      "name": "Phường Minh Khai"
+    },
+    {
+      "id": 3577,
+      "name": "Phường Phú Diễn"
+    },
+    {
+      "id": 3580,
+      "name": "Phường Phúc Diễn"
+    },
+    {
+      "id": 3579,
+      "name": "Phường Tây Tựu"
+    },
+    {
+      "id": 3589,
+      "name": "Phường Thụy Phương"
+    },
+    {
+      "id": 3588,
+      "name": "Phường Thượng Cát"
+    },
+    {
+      "id": 3532,
+      "name": "Phường Xuân Đỉnh"
+    },
+    {
+      "id": 3585,
+      "name": "Phường Xuân Tảo"
+    }
+  ]
+}

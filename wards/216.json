@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 8256,
+      "name": "Phường Bình Ngọc"
+    },
+    {
+      "id": 8261,
+      "name": "Phường Hải Hoà"
+    },
+    {
+      "id": 8262,
+      "name": "Phường Hải Yên"
+    },
+    {
+      "id": 8263,
+      "name": "Phường Hoà Lạc"
+    },
+    {
+      "id": 8264,
+      "name": "Phường Ka Long"
+    },
+    {
+      "id": 8265,
+      "name": "Phường Ninh Dương"
+    },
+    {
+      "id": 8266,
+      "name": "Phường Trà Cổ"
+    },
+    {
+      "id": 8267,
+      "name": "Phường Trần Phú"
+    },
+    {
+      "id": 8255,
+      "name": "Xã Bắc Sơn"
+    },
+    {
+      "id": 8257,
+      "name": "Xã Hải Đông"
+    },
+    {
+      "id": 8258,
+      "name": "Xã Hải Sơn"
+    },
+    {
+      "id": 8259,
+      "name": "Xã Hải Tiến"
+    },
+    {
+      "id": 8260,
+      "name": "Xã Hải Xuân"
+    },
+    {
+      "id": 8268,
+      "name": "Xã Quảng Nghĩa"
+    },
+    {
+      "id": 8269,
+      "name": "Xã Vạn Ninh"
+    },
+    {
+      "id": 8270,
+      "name": "Xã Vĩnh Thực"
+    },
+    {
+      "id": 8271,
+      "name": "Xã Vĩnh Trung"
+    }
+  ]
+}

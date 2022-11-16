@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 58,
+      "name": "Huyện Bình Xuyên"
+    },
+    {
+      "id": 59,
+      "name": "Huyện Vĩnh Tường"
+    },
+    {
+      "id": 60,
+      "name": "Huyện Lập Thạch"
+    },
+    {
+      "id": 62,
+      "name": "Huyện Yên Lạc"
+    },
+    {
+      "id": 63,
+      "name": "Thành phố Vĩnh Yên"
+    },
+    {
+      "id": 64,
+      "name": "Huyện Tam Đảo"
+    },
+    {
+      "id": 65,
+      "name": "Huyện Tam Dương"
+    },
+    {
+      "id": 66,
+      "name": "Thị xã Phúc Yên"
+    },
+    {
+      "id": 716,
+      "name": "Huyện Sông Lô"
+    }
+  ]
+}

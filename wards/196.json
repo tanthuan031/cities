@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 4054,
+      "name": "Phường Bến Tắm"
+    },
+    {
+      "id": 4059,
+      "name": "Phường Chí Minh"
+    },
+    {
+      "id": 4061,
+      "name": "Phường Cộng Hoà"
+    },
+    {
+      "id": 4064,
+      "name": "Phường Hoàng Tân"
+    },
+    {
+      "id": 4055,
+      "name": "Phường Phả Lại"
+    },
+    {
+      "id": 4056,
+      "name": "Phường Sao Đỏ"
+    },
+    {
+      "id": 4071,
+      "name": "Phường Thái Học"
+    },
+    {
+      "id": 4072,
+      "name": "Phường Văn An"
+    },
+    {
+      "id": 4057,
+      "name": "Xã An Lạc"
+    },
+    {
+      "id": 4058,
+      "name": "Xã Bắc An"
+    },
+    {
+      "id": 4060,
+      "name": "Xã Cổ Thành"
+    },
+    {
+      "id": 4062,
+      "name": "Xã Đồng Lạc"
+    },
+    {
+      "id": 4063,
+      "name": "Xã Hoàng Hoa Thám"
+    },
+    {
+      "id": 4065,
+      "name": "Xã Hoàng Tiến"
+    },
+    {
+      "id": 4066,
+      "name": "Xã Hưng Đạo"
+    },
+    {
+      "id": 4067,
+      "name": "Xã Kênh Giang"
+    },
+    {
+      "id": 4068,
+      "name": "Xã Lê Lợi"
+    },
+    {
+      "id": 4069,
+      "name": "Xã Nhân Huệ"
+    },
+    {
+      "id": 4070,
+      "name": "Xã Tân Dân"
+    },
+    {
+      "id": 4073,
+      "name": "Xã Văn Đức"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 4999,
+      "name": "Thị trấn Khánh Vĩnh"
+    },
+    {
+      "id": 5000,
+      "name": "Xã Cầu Bà"
+    },
+    {
+      "id": 5001,
+      "name": "Xã Giang Ly"
+    },
+    {
+      "id": 5002,
+      "name": "Xã Khánh Bình"
+    },
+    {
+      "id": 5003,
+      "name": "Xã Khánh Đông"
+    },
+    {
+      "id": 5004,
+      "name": "Xã Khánh Hiệp"
+    },
+    {
+      "id": 5005,
+      "name": "Xã Khánh Nam"
+    },
+    {
+      "id": 5006,
+      "name": "Xã Khánh Phú"
+    },
+    {
+      "id": 5007,
+      "name": "Xã Khánh Thành"
+    },
+    {
+      "id": 5008,
+      "name": "Xã Khánh Thượng"
+    },
+    {
+      "id": 5009,
+      "name": "Xã Khánh Trung"
+    },
+    {
+      "id": 5010,
+      "name": "Xã Liên Sang"
+    },
+    {
+      "id": 5012,
+      "name": "Xã Sông Cầu"
+    },
+    {
+      "id": 5011,
+      "name": "Xã Sơn Thái"
+    }
+  ]
+}

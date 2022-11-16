@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 9990,
+      "name": "Phường Bắc Sơn"
+    },
+    {
+      "id": 9994,
+      "name": "Phường Quảng Tiến"
+    },
+    {
+      "id": 9991,
+      "name": "Phường Trung Sơn"
+    },
+    {
+      "id": 9992,
+      "name": "Phường Trường Sơn"
+    },
+    {
+      "id": 11547,
+      "name": "Xã Quảng Châu"
+    },
+    {
+      "id": 9993,
+      "name": "Xã Quảng Cư"
+    },
+    {
+      "id": 11548,
+      "name": "Xã Quảng Đại"
+    },
+    {
+      "id": 11549,
+      "name": "Xã Quảng Hùng"
+    },
+    {
+      "id": 11550,
+      "name": "Xã Quảng Minh"
+    },
+    {
+      "id": 11551,
+      "name": "Xã Quảng Thọ"
+    },
+    {
+      "id": 11552,
+      "name": "Xã Quảng Vinh"
+    }
+  ]
+}

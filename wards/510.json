@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 180,
+      "name": "Thị trấn Long Điền"
+    },
+    {
+      "id": 181,
+      "name": "Thị trấn Long Hải"
+    },
+    {
+      "id": 182,
+      "name": "Xã An Ngãi"
+    },
+    {
+      "id": 183,
+      "name": "Xã An Nhứt"
+    },
+    {
+      "id": 184,
+      "name": "Xã Phước Hưng"
+    },
+    {
+      "id": 185,
+      "name": "Xã Phước Tỉnh"
+    },
+    {
+      "id": 186,
+      "name": "Xã Tam Phước"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 732,
+      "name": "Thị xã Duyên Hải"
+    },
+    {
+      "id": 598,
+      "name": "Huyện Châu Thành"
+    },
+    {
+      "id": 599,
+      "name": "Huyện Cầu Kè"
+    },
+    {
+      "id": 600,
+      "name": "Huyện Càng Long"
+    },
+    {
+      "id": 601,
+      "name": "Huyện Cầu Ngang"
+    },
+    {
+      "id": 602,
+      "name": "Huyện Duyên Hải"
+    },
+    {
+      "id": 603,
+      "name": "Huyện Tiểu Cần"
+    },
+    {
+      "id": 604,
+      "name": "Huyện Trà Cú"
+    },
+    {
+      "id": 605,
+      "name": "Thành phố Trà Vinh"
+    }
+  ]
+}

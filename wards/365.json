@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 7802,
+      "name": "Thị trấn Núi Thành"
+    },
+    {
+      "id": 7803,
+      "name": "Xã Tam Anh Bắc"
+    },
+    {
+      "id": 7804,
+      "name": "Xã Tam Anh Nam"
+    },
+    {
+      "id": 7805,
+      "name": "Xã Tam Giang"
+    },
+    {
+      "id": 7806,
+      "name": "Xã Tam Hải"
+    },
+    {
+      "id": 7807,
+      "name": "Xã Tam Hiệp"
+    },
+    {
+      "id": 7808,
+      "name": "Xã Tam Hòa"
+    },
+    {
+      "id": 7809,
+      "name": "Xã Tam Mỹ Đông"
+    },
+    {
+      "id": 7810,
+      "name": "Xã Tam Mỹ Tây"
+    },
+    {
+      "id": 7811,
+      "name": "Xã Tam Nghĩa"
+    },
+    {
+      "id": 7812,
+      "name": "Xã Tam Quang"
+    },
+    {
+      "id": 7813,
+      "name": "Xã Tam Sơn"
+    },
+    {
+      "id": 7814,
+      "name": "Xã Tam Thạnh"
+    },
+    {
+      "id": 7815,
+      "name": "Xã Tam Tiến"
+    },
+    {
+      "id": 7816,
+      "name": "Xã Tam Trà"
+    },
+    {
+      "id": 7817,
+      "name": "Xã Tam Xuân I"
+    },
+    {
+      "id": 7818,
+      "name": "Xã Tam Xuân II"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 534,
+      "name": "Thị trấn Neo"
+    },
+    {
+      "id": 535,
+      "name": "Thị trấn Tân Dân"
+    },
+    {
+      "id": 536,
+      "name": "Xã Cảnh Thụy"
+    },
+    {
+      "id": 537,
+      "name": "Xã Đồng Phúc"
+    },
+    {
+      "id": 539,
+      "name": "Xã Đồng Việt"
+    },
+    {
+      "id": 540,
+      "name": "Xã Đức Giang"
+    },
+    {
+      "id": 541,
+      "name": "Xã Hương Gián"
+    },
+    {
+      "id": 542,
+      "name": "Xã Lãng Sơn"
+    },
+    {
+      "id": 543,
+      "name": "Xã Lão Hộ"
+    },
+    {
+      "id": 544,
+      "name": "Xã Nham Sơn"
+    },
+    {
+      "id": 545,
+      "name": "Xã Nội Hoàng"
+    },
+    {
+      "id": 546,
+      "name": "Xã Quỳnh Sơn"
+    },
+    {
+      "id": 548,
+      "name": "Xã Tân An"
+    },
+    {
+      "id": 549,
+      "name": "Xã Tân Liễu"
+    },
+    {
+      "id": 552,
+      "name": "Xã Thắng Cương"
+    },
+    {
+      "id": 553,
+      "name": "Xã Tiến Dũng"
+    },
+    {
+      "id": 554,
+      "name": "Xã Tiền Phong"
+    },
+    {
+      "id": 555,
+      "name": "Xã Trí Yên"
+    },
+    {
+      "id": 556,
+      "name": "Xã Tư Mại"
+    },
+    {
+      "id": 557,
+      "name": "Xã Xuân Phú"
+    },
+    {
+      "id": 558,
+      "name": "Xã Yên Lư"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 150,
+      "name": "Huyện Ngân Sơn"
+    },
+    {
+      "id": 151,
+      "name": "Huyện Chợ Đồn"
+    },
+    {
+      "id": 152,
+      "name": "Huyện Ba Bể"
+    },
+    {
+      "id": 153,
+      "name": "Huyện Chợ Mới"
+    },
+    {
+      "id": 154,
+      "name": "Huyện Bạch Thông"
+    },
+    {
+      "id": 155,
+      "name": "Thành Phố Bắc Kạn"
+    },
+    {
+      "id": 156,
+      "name": "Huyện Na Rì"
+    },
+    {
+      "id": 157,
+      "name": "Huyện Pác Nặm"
+    }
+  ]
+}
